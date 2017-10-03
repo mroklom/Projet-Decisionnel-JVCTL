@@ -36,7 +36,7 @@ CREATE TABLE `trees` (
   `stump_diameter` varchar(45) NOT NULL,
   `species` varchar(255) NOT NULL COMMENT 'Tree species.',
   `busyness` varchar(255) NOT NULL COMMENT 'Passage near the tree.',
-  `botanical_type` varchar(45) NOT NULL COMMENT 'Botanical type of the tree.',
+  `genus` varchar(45) NOT NULL COMMENT 'Genus of the tree.',
   `plu_id` int(11) DEFAULT NULL COMMENT 'Local town plan identifier.',
   `plu_category_label` varchar(45) DEFAULT NULL COMMENT 'Local town plan category label.',
   `diagnosis_note` varchar(255) DEFAULT NULL COMMENT 'Result of the diagnosis.',
