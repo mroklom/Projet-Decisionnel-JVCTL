@@ -26,7 +26,7 @@ DROP TABLE IF EXISTS `coordinates`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `coordinates` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `coord_x` double,
+  `coord_x` double NOT NULL,
   `coord_y` double NOT NULL,
   PRIMARY KEY (`id`),
   UNIQUE KEY `id_UNIQUE` (`id`),
