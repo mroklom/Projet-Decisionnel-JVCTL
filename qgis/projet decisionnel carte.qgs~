@@ -5,76 +5,76 @@
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="roots220171010103250927" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\roots2\roots2.shp" name="roots2">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="roots220171010103250927" source="C:/Users/Tracy/Downloads/M1 projet/roots2.shp" name="roots2">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="collar220171010103332941" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\collar2\collar2.shp" name="collar2">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="collar220171010103332941" source="C:/Users/Tracy/Downloads/M1 projet/collar2.shp" name="collar2">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="tree_crown220171010103413046" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\tree_crown2\tree_crown2.shp" name="tree_crown2">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="tree_crown220171010103413046" source="C:/Users/Tracy/Downloads/M1 projet/tree_crown2.shp" name="tree_crown2">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="trunk220171010103443058" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\trunk2\trunk2.shp" name="trunk2">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="trunk220171010103443058" source="C:/Users/Tracy/Downloads/M1 projet/trunk2.shp" name="trunk2">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="roots120171010103605278" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\roots1\roots1.shp" name="roots1">
+    <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Checked" id="sick_trees_coords_dataset220171010102854386" source="file:///C:/Users/Tracy/Downloads/sick_trees_coords_dataset2.csv?encoding=System&amp;type=csv&amp;delimiter=,%5Ct&amp;xField=coord_x&amp;yField=coord_y&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no" name="sick_trees_coords_dataset2">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="collar120171010103525313" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\collar1\collar1.shp" name="collar1">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="roots120171010103605278" source="C:/Users/Tracy/Downloads/M1 projet/roots1.shp" name="roots1">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="tree_crown120171010103634591" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\tree_crown1\tree_crown1.shp" name="tree_crown1">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="collar120171010103525313" source="C:/Users/Tracy/Downloads/M1 projet/collar1.shp" name="collar1">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="trunk120171010103702420" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\trunk1\trunk1.shp" name="trunk1">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="tree_crown120171010103634591" source="C:/Users/Tracy/Downloads/M1 projet/tree_crown1.shp" name="tree_crown1">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Checked" id="sick_trees_coords_dataset120171017095712023" source="file:///C:/Users/Tracy/Documents/GitHub/Projet-Decisionnel-JVCTL/qgis/couches/sick_trees_coords_dataset1/sick_trees_coords_dataset1.csv?encoding=System&amp;type=csv&amp;delimiter=,%5Ct&amp;xField=coord_x&amp;yField=coord_y&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no" name="sick_trees_coords_dataset1">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="trunk120171010103702420" source="C:/Users/Tracy/Downloads/M1 projet/trunk1.shp" name="trunk1">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Checked" id="sick_trees_coords_dataset220171017095740205" source="file:///C:/Users/Tracy/Documents/GitHub/Projet-Decisionnel-JVCTL/qgis/couches/sick_trees_coords_dataset2/sick_trees_coords_dataset2.csv?encoding=System&amp;type=csv&amp;delimiter=,%5Ct&amp;xField=coord_x&amp;yField=coord_y&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no" name="sick_trees_coords_dataset2">
+    <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Checked" id="sick_trees_coords_dataset120171010101628894" source="file:///C:/Users/Tracy/Downloads/sick_trees_coords_dataset1.csv?encoding=System&amp;type=csv&amp;delimiter=,%5Ct&amp;xField=coord_x&amp;yField=coord_y&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no" name="sick_trees_coords_dataset1">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Checked" id="X_geoloc_egc_t220171017095601376" source="file:///C:/Users/Tracy/Documents/GitHub/Projet-Decisionnel-JVCTL/Dataset2/X_geoloc_egc_t2.csv?encoding=System&amp;type=csv&amp;delimiter=%5Ct;&amp;xField=coord_x&amp;yField=coord_y&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no" name="X_geoloc_egc_t2">
+    <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Checked" id="X_geoloc_egc_t220171010083646350" source="file:///C:/Users/Tracy/Documents/GitHub/Projet-Decisionnel-JVCTL/Dataset2/X_geoloc_egc_t2.csv?type=csv&amp;delimiter=%5Ct;&amp;xField=coord_x&amp;yField=coord_y&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no" name="X_geoloc_egc_t2">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Checked" id="X_geoloc_egc_t120171017095531008" source="file:///C:/Users/Tracy/Documents/GitHub/Projet-Decisionnel-JVCTL/Dataset1/X_geoloc_egc_t1.csv?encoding=System&amp;type=csv&amp;delimiter=%5Ct;&amp;xField=coord_x&amp;yField=coord_y&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no" name="X_geoloc_egc_t1">
+    <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Checked" id="X_geoloc_egc_t120171005205230962" source="file:///C:/Users/Tracy/Documents/GitHub/Projet-Decisionnel-JVCTL/Dataset1/X_geoloc_egc_t1.csv?type=csv&amp;delimiter=%5Ct;&amp;xField=coord_x&amp;yField=coord_y&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no" name="X_geoloc_egc_t1">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="places20171005210931585" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\places\places.shp" name="places">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="places20171005210931585" source="C:/Users/Tracy/Downloads/departement-38-Isere/departement-38/places.shp" name="places">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="waterways20171005210202685" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\waterways\waterways.shp" name="waterways">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="waterways20171005210202685" source="C:/Users/Tracy/Downloads/departement-38-Isere/departement-38/waterways.shp" name="waterways">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="roads20171005210014370" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\roads\roads.shp" name="roads">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="roads20171005210014370" source="C:/Users/Tracy/Downloads/departement-38-Isere/departement-38/roads.shp" name="roads">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="HYPERCENTRE_EPSG432620171010092547375" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\HYPERCENTRE_EPSG4326\HYPERCENTRE_EPSG4326.json" name="HYPERCENTRE_EPSG4326 Sous_Decoupage_EPSG4326 Polygon">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="HYPERCENTRE_EPSG432620171010092547375" source="C:/Users/Tracy/Downloads/M1 projet/HYPERCENTRE_EPSG4326.json" name="HYPERCENTRE_EPSG4326 Sous_Decoupage_EPSG4326 Polygon">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="secteur120171010091126919" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\secteur1\secteur1.shp" name="secteur1">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="secteur120171010091126919" source="C:/Users/Tracy/Downloads/M1 projet/secteur1.shp" name="secteur1">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="secteur220171010091210157" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\secteur2\secteur2.shp" name="secteur2">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="secteur220171010091210157" source="C:/Users/Tracy/Downloads/M1 projet/secteur2.shp" name="secteur2">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="secteur320171010091615362" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\secteur3\secteur3.shp" name="secteur3">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="secteur320171010091615362" source="C:/Users/Tracy/Downloads/M1 projet/secteur3.shp" name="secteur3">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="secteur420171010091700562" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\secteur4\secteur4.shp" name="secteur4">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="secteur420171010091700562" source="C:/Users/Tracy/Downloads/M1 projet/secteur4.shp" name="secteur4">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="secteur520171010091750874" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\secteur5\secteur5.shp" name="secteur5">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="secteur520171010091750874" source="C:/Users/Tracy/Downloads/M1 projet/secteur5.shp" name="secteur5">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="secteur620171010091900667" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\secteur6\secteur6.shp" name="secteur6">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="secteur620171010091900667" source="C:/Users/Tracy/Downloads/M1 projet/secteur6.shp" name="secteur6">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="SECTEURS_EPSG432620171006112215937" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\SECTEURS_EPSG4326\SECTEURS_EPSG4326.json" name="SECTEURS_EPSG4326 Sous_Decoupage_EPSG4326 Polygon">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="SECTEURS_EPSG432620171006112215937" source="C:/Users/Tracy/Downloads/TDQGIS1/SECTEURS_EPSG4326.json" name="SECTEURS_EPSG4326 Sous_Decoupage_EPSG4326 Polygon">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="FRA220171005202906092" source="C:\Users\Tracy\Documents\GitHub\Projet-Decisionnel-JVCTL\qgis\couches\FRA2\FRA2.shp" name="FRA2">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="FRA220171005202906092" source="C:/Users/Tracy/Downloads/TDQGIS1/FRA2.shp" name="FRA2">
       <customproperties/>
     </layer-tree-layer>
   </layer-tree-group>
@@ -109,28 +109,26 @@
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="collar120171010103525313"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="secteur620171010091900667"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="secteur320171010091615362"/>
-      <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="tree_crown220171010103413046"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="HYPERCENTRE_EPSG432620171010092547375"/>
+      <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="tree_crown220171010103413046"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="sick_trees_coords_dataset220171010102854386"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="X_geoloc_egc_t120171005205230962"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="places20171010093037902"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="waterways20171005210202685"/>
-      <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="roots20171010103120611"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="borneswifi_EPSG432620171010084343818"/>
-      <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="roots220171010103250927"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="places20171005210931585"/>
+      <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="roots20171010103120611"/>
+      <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="roots220171010103250927"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="roads20171005210014370"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="memory_20171010085413809"/>
-      <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="tree_crown120171010103634591"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="memory_20171006105848070"/>
-      <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="X_geoloc_egc_t120171017095531008"/>
+      <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="tree_crown120171010103634591"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="memory_20171006110014387"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="memory_20171010085312021"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="memory_20171006110224514"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="sick_trees_coords_dataset120171010101628894"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="sick_trees_coords_dataset120171010094146967"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="secteur420171010091700562"/>
-      <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="sick_trees_coords_dataset120171017095712023"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="landuse20171010093011921"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="sick_trees_coords_dataset220171010092027464"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="secteur220171010091210157"/>
@@ -141,7 +139,6 @@
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="X_geoloc_egc_t220171010083646350"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="memory_20171010085057634"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="SECTEURS_EPSG432620171006112215937"/>
-      <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="sick_trees_coords_dataset220171017095740205"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="secteur120171010091126919"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="memory_20171006110714979"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="memory_20171006110137063"/>
@@ -149,7 +146,6 @@
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="trunk120171010103702420"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="memory_20171006110759074"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="memory_20171006105733397"/>
-      <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:3945" srcDatumTransform="-1" destDatumTransform="-1" layerid="X_geoloc_egc_t220171017095601376"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="FRA220171005202906092"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="RGG_PARCEL_EPSG432620171006082834189"/>
       <layer_coordinate_transform destAuthId="EPSG:3945" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="memory_20171006110320916"/>
@@ -164,10 +160,12 @@
   <layer-tree-canvas>
     <custom-order enabled="0">
       <item>FRA220171005202906092</item>
+      <item>X_geoloc_egc_t120171005205230962</item>
       <item>roads20171005210014370</item>
       <item>waterways20171005210202685</item>
       <item>places20171005210931585</item>
       <item>SECTEURS_EPSG432620171006112215937</item>
+      <item>X_geoloc_egc_t220171010083646350</item>
       <item>secteur120171010091126919</item>
       <item>secteur220171010091210157</item>
       <item>secteur320171010091615362</item>
@@ -175,6 +173,8 @@
       <item>secteur520171010091750874</item>
       <item>secteur620171010091900667</item>
       <item>HYPERCENTRE_EPSG432620171010092547375</item>
+      <item>sick_trees_coords_dataset120171010101628894</item>
+      <item>sick_trees_coords_dataset220171010102854386</item>
       <item>roots220171010103250927</item>
       <item>collar220171010103332941</item>
       <item>tree_crown220171010103413046</item>
@@ -183,10 +183,6 @@
       <item>roots120171010103605278</item>
       <item>tree_crown120171010103634591</item>
       <item>trunk120171010103702420</item>
-      <item>X_geoloc_egc_t120171017095531008</item>
-      <item>X_geoloc_egc_t220171017095601376</item>
-      <item>sick_trees_coords_dataset120171017095712023</item>
-      <item>sick_trees_coords_dataset220171017095740205</item>
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
@@ -208,6 +204,11 @@
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="trunk2" showFeatureCount="0">
       <filegroup open="true" hidden="false">
         <legendlayerfile isInOverview="0" layerid="trunk220171010103443058" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="sick_trees_coords_dataset2" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="sick_trees_coords_dataset220171010102854386" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="roots1" showFeatureCount="0">
@@ -232,22 +233,17 @@
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="sick_trees_coords_dataset1" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="sick_trees_coords_dataset120171017095712023" visible="1"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="sick_trees_coords_dataset2" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="sick_trees_coords_dataset220171017095740205" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="sick_trees_coords_dataset120171010101628894" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="X_geoloc_egc_t2" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="X_geoloc_egc_t220171017095601376" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="X_geoloc_egc_t220171010083646350" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="X_geoloc_egc_t1" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="X_geoloc_egc_t120171017095531008" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="X_geoloc_egc_t120171005205230962" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="places" showFeatureCount="0">
@@ -320,7 +316,7 @@
         <ymax>51.09755331708488768</ymax>
       </extent>
       <id>FRA220171005202906092</id>
-      <datasource>./couches/FRA2/FRA2.shp</datasource>
+      <datasource>../TDQGIS1/FRA2.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -651,7 +647,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>HYPERCENTRE_EPSG432620171010092547375</id>
-      <datasource>./couches/HYPERCENTRE_EPSG4326/HYPERCENTRE_EPSG4326.json</datasource>
+      <datasource>./HYPERCENTRE_EPSG4326.json</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -788,7 +784,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>45.21407470969970177</ymax>
       </extent>
       <id>SECTEURS_EPSG432620171006112215937</id>
-      <datasource>./couches/SECTEURS_EPSG4326/SECTEURS_EPSG4326.json</datasource>
+      <datasource>../TDQGIS1/SECTEURS_EPSG4326.json</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -1112,8 +1108,14 @@ def my_form_open(dialog, layer, feature):
       <previewExpression>COALESCE( "SDEC_ID", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <id>X_geoloc_egc_t120171017095531008</id>
-      <datasource>file:../Dataset1/X_geoloc_egc_t1.csv?encoding=System&amp;type=csv&amp;delimiter=%5Ct;&amp;xField=coord_x&amp;yField=coord_y&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no</datasource>
+      <extent>
+        <xmin>1911908.3976000000257045</xmin>
+        <ymin>4220480.82163000013679266</ymin>
+        <xmax>1916251.74252000008709729</xmax>
+        <ymax>4226523.84387999959290028</ymax>
+      </extent>
+      <id>X_geoloc_egc_t120171005205230962</id>
+      <datasource>file:../../Documents/GitHub/Projet-Decisionnel-JVCTL/Dataset1/X_geoloc_egc_t1.csv?type=csv&amp;delimiter=%5Ct;&amp;xField=coord_x&amp;yField=coord_y&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -1153,7 +1155,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="marker" name="0">
             <layer pass="0" class="SimpleMarker" locked="0">
               <prop k="angle" v="0"/>
-              <prop k="color" v="3,56,22,255"/>
+              <prop k="color" v="17,48,138,255"/>
               <prop k="horizontal_anchor_point" v="1"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="name" v="circle"/>
@@ -1348,6 +1350,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -1373,7 +1376,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <aliases>
         <alias field="id" index="0" name=""/>
         <alias field="coord_x" index="1" name=""/>
@@ -1382,7 +1385,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="7602273">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="&quot;id&quot;" sortOrder="0">
         <columns>
           <column width="-1" hidden="0" type="field" name="id"/>
           <column width="-1" hidden="0" type="field" name="coord_x"/>
@@ -1390,10 +1393,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 Les formulaires QGIS peuvent avoir une fonction Python qui sera appelée à l'ouverture du formulaire.
@@ -1422,11 +1425,17 @@ def my_form_open(dialog, layer, feature):
         <default field="coord_x" expression=""/>
         <default field="coord_y" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "id", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <id>X_geoloc_egc_t220171017095601376</id>
-      <datasource>file:../Dataset2/X_geoloc_egc_t2.csv?encoding=System&amp;type=csv&amp;delimiter=%5Ct;&amp;xField=coord_x&amp;yField=coord_y&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no</datasource>
+      <extent>
+        <xmin>1911906.64841999998316169</xmin>
+        <ymin>4220467.21877000015228987</ymin>
+        <xmax>1916251.69183999998494983</xmax>
+        <ymax>4226533.85288000013679266</ymax>
+      </extent>
+      <id>X_geoloc_egc_t220171010083646350</id>
+      <datasource>file:../../Documents/GitHub/Projet-Decisionnel-JVCTL/Dataset2/X_geoloc_egc_t2.csv?type=csv&amp;delimiter=%5Ct;&amp;xField=coord_x&amp;yField=coord_y&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -1466,7 +1475,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="marker" name="0">
             <layer pass="0" class="SimpleMarker" locked="0">
               <prop k="angle" v="0"/>
-              <prop k="color" v="0,48,16,255"/>
+              <prop k="color" v="0,12,154,255"/>
               <prop k="horizontal_anchor_point" v="1"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="name" v="circle"/>
@@ -1661,6 +1670,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -1686,7 +1696,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <aliases>
         <alias field="id" index="0" name=""/>
         <alias field="coord_x" index="1" name=""/>
@@ -1695,7 +1705,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="194920448">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns>
           <column width="-1" hidden="0" type="field" name="id"/>
           <column width="-1" hidden="0" type="field" name="coord_x"/>
@@ -1703,10 +1713,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 Les formulaires QGIS peuvent avoir une fonction Python qui sera appelée à l'ouverture du formulaire.
@@ -1739,7 +1749,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>collar120171010103525313</id>
-      <datasource>./couches/collar1/collar1.shp</datasource>
+      <datasource>./collar1.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -1983,7 +1993,6 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
-          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -2009,7 +2018,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform>.</annotationform>
+      <annotationform></annotationform>
       <aliases>
         <alias field="coord_x" index="0" name=""/>
         <alias field="coord_y" index="1" name=""/>
@@ -2021,7 +2030,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="573317703">
         <columns>
           <column width="-1" hidden="0" type="field" name="coord_x"/>
           <column width="-1" hidden="0" type="field" name="coord_y"/>
@@ -2032,10 +2041,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform>.</editform>
+      <editform></editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitfilepath></editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 Les formulaires QGIS peuvent avoir une fonction Python qui sera appelée à l'ouverture du formulaire.
@@ -2071,7 +2080,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>collar220171010103332941</id>
-      <datasource>./couches/collar2/collar2.shp</datasource>
+      <datasource>./collar2.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -2315,7 +2324,6 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
-          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -2341,7 +2349,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform>.</annotationform>
+      <annotationform></annotationform>
       <aliases>
         <alias field="coord_x" index="0" name=""/>
         <alias field="coord_y" index="1" name=""/>
@@ -2353,7 +2361,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="895783976">
         <columns>
           <column width="-1" hidden="0" type="field" name="coord_x"/>
           <column width="-1" hidden="0" type="field" name="coord_y"/>
@@ -2364,10 +2372,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform>.</editform>
+      <editform></editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitfilepath></editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 Les formulaires QGIS peuvent avoir une fonction Python qui sera appelée à l'ouverture du formulaire.
@@ -2409,7 +2417,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>45.87311210000000017</ymax>
       </extent>
       <id>places20171005210931585</id>
-      <datasource>./couches/places/places.shp</datasource>
+      <datasource>../departement-38-Isere/departement-38/places.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -2735,7 +2743,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>45.88244679999999676</ymax>
       </extent>
       <id>roads20171005210014370</id>
-      <datasource>./couches/roads/roads.shp</datasource>
+      <datasource>../departement-38-Isere/departement-38/roads.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3070,7 +3078,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>roots120171010103605278</id>
-      <datasource>./couches/roots1/roots1.shp</datasource>
+      <datasource>./roots1.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3314,7 +3322,6 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
-          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -3340,7 +3347,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform>.</annotationform>
+      <annotationform></annotationform>
       <aliases>
         <alias field="coord_x" index="0" name=""/>
         <alias field="coord_y" index="1" name=""/>
@@ -3352,7 +3359,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="573317703">
         <columns>
           <column width="-1" hidden="0" type="field" name="coord_x"/>
           <column width="-1" hidden="0" type="field" name="coord_y"/>
@@ -3363,10 +3370,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform>.</editform>
+      <editform></editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitfilepath></editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 Les formulaires QGIS peuvent avoir une fonction Python qui sera appelée à l'ouverture du formulaire.
@@ -3408,7 +3415,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>4225847.5365599999204278</ymax>
       </extent>
       <id>roots220171010103250927</id>
-      <datasource>./couches/roots2/roots2.shp</datasource>
+      <datasource>./roots2.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3652,7 +3659,6 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
-          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -3678,7 +3684,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform>.</annotationform>
+      <annotationform></annotationform>
       <aliases>
         <alias field="coord_x" index="0" name=""/>
         <alias field="coord_y" index="1" name=""/>
@@ -3690,7 +3696,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="857877538">
         <columns>
           <column width="-1" hidden="0" type="field" name="coord_x"/>
           <column width="-1" hidden="0" type="field" name="coord_y"/>
@@ -3701,10 +3707,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform>.</editform>
+      <editform></editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitfilepath></editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 Les formulaires QGIS peuvent avoir une fonction Python qui sera appelée à l'ouverture du formulaire.
@@ -3740,7 +3746,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>secteur120171010091126919</id>
-      <datasource>./couches/secteur1/secteur1.shp</datasource>
+      <datasource>./secteur1.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -4065,7 +4071,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>secteur220171010091210157</id>
-      <datasource>./couches/secteur2/secteur2.shp</datasource>
+      <datasource>./secteur2.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -4390,7 +4396,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>secteur320171010091615362</id>
-      <datasource>./couches/secteur3/secteur3.shp</datasource>
+      <datasource>./secteur3.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -4715,7 +4721,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>secteur420171010091700562</id>
-      <datasource>./couches/secteur4/secteur4.shp</datasource>
+      <datasource>./secteur4.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -5040,7 +5046,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>secteur520171010091750874</id>
-      <datasource>./couches/secteur5/secteur5.shp</datasource>
+      <datasource>./secteur5.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -5365,7 +5371,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>secteur620171010091900667</id>
-      <datasource>./couches/secteur6/secteur6.shp</datasource>
+      <datasource>./secteur6.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -5689,8 +5695,14 @@ def my_form_open(dialog, layer, feature):
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <id>sick_trees_coords_dataset120171017095712023</id>
-      <datasource>file:./couches/sick_trees_coords_dataset1/sick_trees_coords_dataset1.csv?encoding=System&amp;type=csv&amp;delimiter=,%5Ct&amp;xField=coord_x&amp;yField=coord_y&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no</datasource>
+      <extent>
+        <xmin>1911946.45977999991737306</xmin>
+        <ymin>4220498.30834999959915876</ymin>
+        <xmax>1916251.74252000008709729</xmax>
+        <ymax>4226312.35974999982863665</ymax>
+      </extent>
+      <id>sick_trees_coords_dataset120171010101628894</id>
+      <datasource>file:../sick_trees_coords_dataset1.csv?encoding=System&amp;type=csv&amp;delimiter=,%5Ct&amp;xField=coord_x&amp;yField=coord_y&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -5931,9 +5943,13 @@ def my_form_open(dialog, layer, feature):
         <multilineenabled fieldname="" on=""/>
         <selectedonly on=""/>
       </labelattributes>
-      <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
-        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
+      <LinearlyInterpolatedDiagramRenderer upperValue="1" lowerHeight="0" upperHeight="4" lowerValue="0" diagramType="Histogram" upperWidth="4" classificationAttribute="2" lowerWidth="0" sizeLegend="0" attributeLegend="1">
+        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="5" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="5" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="&quot;trunk&quot;" color="#923450" label="trunk"/>
+          <attribute field="&quot;tree_crown&quot;" color="#2fddb3" label="tree_crown"/>
+          <attribute field="&quot;roots&quot;" color="#c0da78" label="roots"/>
+          <attribute field="&quot;collar&quot;" color="#50d912" label="collar"/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -5957,8 +5973,8 @@ def my_form_open(dialog, layer, feature):
             <prop k="vertical_anchor_point" v="1"/>
           </layer>
         </symbol>
-      </SingleCategoryDiagramRenderer>
-      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
+      </LinearlyInterpolatedDiagramRenderer>
+      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="1" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
       <annotationform></annotationform>
       <aliases>
         <alias field="coord_x" index="0" name=""/>
@@ -5971,7 +5987,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="815268488">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="181060248">
         <columns>
           <column width="-1" hidden="0" type="field" name="coord_x"/>
           <column width="-1" hidden="0" type="field" name="coord_y"/>
@@ -6017,11 +6033,17 @@ def my_form_open(dialog, layer, feature):
         <default field="tree_crown" expression=""/>
         <default field="trunk" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "coord_x", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <id>sick_trees_coords_dataset220171017095740205</id>
-      <datasource>file:./couches/sick_trees_coords_dataset2/sick_trees_coords_dataset2.csv?encoding=System&amp;type=csv&amp;delimiter=,%5Ct&amp;xField=coord_x&amp;yField=coord_y&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no</datasource>
+      <extent>
+        <xmin>1911952.68368000001646578</xmin>
+        <ymin>4220483.30723000038415194</ymin>
+        <xmax>1916245.46280999993905425</xmax>
+        <ymax>4226306.05628999974578619</ymax>
+      </extent>
+      <id>sick_trees_coords_dataset220171010102854386</id>
+      <datasource>file:../sick_trees_coords_dataset2.csv?encoding=System&amp;type=csv&amp;delimiter=,%5Ct&amp;xField=coord_x&amp;yField=coord_y&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -6302,7 +6324,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="&quot;collar&quot;" sortOrder="1">
         <columns>
           <column width="-1" hidden="0" type="field" name="coord_x"/>
           <column width="-1" hidden="0" type="field" name="coord_y"/>
@@ -6348,11 +6370,11 @@ def my_form_open(dialog, layer, feature):
         <default field="tree_crown" expression=""/>
         <default field="trunk" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "coord_x", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>tree_crown120171010103634591</id>
-      <datasource>./couches/tree_crown1/tree_crown1.shp</datasource>
+      <datasource>./tree_crown1.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -6596,7 +6618,6 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
-          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -6622,7 +6643,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform>.</annotationform>
+      <annotationform></annotationform>
       <aliases>
         <alias field="coord_x" index="0" name=""/>
         <alias field="coord_y" index="1" name=""/>
@@ -6634,7 +6655,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="573317703">
         <columns>
           <column width="-1" hidden="0" type="field" name="coord_x"/>
           <column width="-1" hidden="0" type="field" name="coord_y"/>
@@ -6645,10 +6666,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform>.</editform>
+      <editform></editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitfilepath></editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 Les formulaires QGIS peuvent avoir une fonction Python qui sera appelée à l'ouverture du formulaire.
@@ -6684,7 +6705,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>tree_crown220171010103413046</id>
-      <datasource>./couches/tree_crown2/tree_crown2.shp</datasource>
+      <datasource>./tree_crown2.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -6928,7 +6949,6 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
-          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -6954,7 +6974,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform>.</annotationform>
+      <annotationform></annotationform>
       <aliases>
         <alias field="coord_x" index="0" name=""/>
         <alias field="coord_y" index="1" name=""/>
@@ -6966,7 +6986,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="924516096">
         <columns>
           <column width="-1" hidden="0" type="field" name="coord_x"/>
           <column width="-1" hidden="0" type="field" name="coord_y"/>
@@ -6977,10 +6997,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform>.</editform>
+      <editform></editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitfilepath></editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 Les formulaires QGIS peuvent avoir une fonction Python qui sera appelée à l'ouverture du formulaire.
@@ -7016,7 +7036,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>trunk120171010103702420</id>
-      <datasource>./couches/trunk1/trunk1.shp</datasource>
+      <datasource>./trunk1.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -7260,7 +7280,6 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
-          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -7286,7 +7305,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform>.</annotationform>
+      <annotationform></annotationform>
       <aliases>
         <alias field="coord_x" index="0" name=""/>
         <alias field="coord_y" index="1" name=""/>
@@ -7298,7 +7317,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="573317703">
         <columns>
           <column width="-1" hidden="0" type="field" name="coord_x"/>
           <column width="-1" hidden="0" type="field" name="coord_y"/>
@@ -7309,10 +7328,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform>.</editform>
+      <editform></editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitfilepath></editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 Les formulaires QGIS peuvent avoir une fonction Python qui sera appelée à l'ouverture du formulaire.
@@ -7348,7 +7367,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>trunk220171010103443058</id>
-      <datasource>./couches/trunk2/trunk2.shp</datasource>
+      <datasource>./trunk2.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -7592,7 +7611,6 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
-          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -7618,7 +7636,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform>.</annotationform>
+      <annotationform></annotationform>
       <aliases>
         <alias field="coord_x" index="0" name=""/>
         <alias field="coord_y" index="1" name=""/>
@@ -7630,7 +7648,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="927350216">
         <columns>
           <column width="-1" hidden="0" type="field" name="coord_x"/>
           <column width="-1" hidden="0" type="field" name="coord_y"/>
@@ -7641,10 +7659,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform>.</editform>
+      <editform></editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitfilepath></editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 Les formulaires QGIS peuvent avoir une fonction Python qui sera appelée à l'ouverture du formulaire.
@@ -7686,7 +7704,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>45.88121139999999798</ymax>
       </extent>
       <id>waterways20171005210202685</id>
-      <datasource>./couches/waterways/waterways.shp</datasource>
+      <datasource>../departement-38-Isere/departement-38/waterways.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
