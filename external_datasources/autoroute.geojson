@@ -1,0 +1,6040 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-10-20T11:11:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4014134",
+        "destination:lanes": "Grenoble-Centre|Autres directions|Autres directions",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "3",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7970567,
+            45.2073005
+          ],
+          [
+            5.7948369,
+            45.206745
+          ],
+          [
+            5.7926741,
+            45.2062551
+          ],
+          [
+            5.7914092,
+            45.2059962
+          ]
+        ]
+      },
+      "id": "way/4014134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4014139",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "3",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.8188542,
+            45.2198558
+          ],
+          [
+            5.8173208,
+            45.2182218
+          ],
+          [
+            5.8159716,
+            45.2169264
+          ],
+          [
+            5.8146323,
+            45.2157063
+          ],
+          [
+            5.8136475,
+            45.2148989
+          ],
+          [
+            5.8126339,
+            45.2141391
+          ],
+          [
+            5.8122375,
+            45.2138733
+          ]
+        ]
+      },
+      "id": "way/4014139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4014141",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "130",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "source:maxspeed": "FR:motorway",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.8918253,
+            45.2637415
+          ],
+          [
+            5.8902191,
+            45.2623315
+          ],
+          [
+            5.8880548,
+            45.2604599
+          ],
+          [
+            5.8855628,
+            45.2584227
+          ],
+          [
+            5.8837986,
+            45.2570159
+          ],
+          [
+            5.8831316,
+            45.2564841
+          ],
+          [
+            5.882892,
+            45.2563022
+          ]
+        ]
+      },
+      "id": "way/4014141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4014149",
+        "highway": "motorway",
+        "history": "Retrieved from v9",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7957483,
+            45.2068402
+          ],
+          [
+            5.796607,
+            45.2070522
+          ],
+          [
+            5.7980118,
+            45.2074169
+          ],
+          [
+            5.7994641,
+            45.2078185
+          ],
+          [
+            5.8010254,
+            45.2082661
+          ]
+        ]
+      },
+      "id": "way/4014149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4014194",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.8185216,
+            45.2192737
+          ],
+          [
+            5.8200415,
+            45.2208931
+          ],
+          [
+            5.8211566,
+            45.2220635
+          ],
+          [
+            5.8222308,
+            45.2231779
+          ],
+          [
+            5.823564,
+            45.224528
+          ],
+          [
+            5.8247411,
+            45.2256523
+          ]
+        ]
+      },
+      "id": "way/4014194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4017853",
+        "destination": "Grenoble-Centre",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7914092,
+            45.2059962
+          ],
+          [
+            5.7888295,
+            45.2054661
+          ],
+          [
+            5.7866156,
+            45.205068
+          ],
+          [
+            5.7825577,
+            45.2044004
+          ]
+        ]
+      },
+      "id": "way/4017853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4017854",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7825577,
+            45.2044004
+          ],
+          [
+            5.7808112,
+            45.204117
+          ],
+          [
+            5.7790179,
+            45.2038525
+          ]
+        ]
+      },
+      "id": "way/4017854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4020688",
+        "destination": "Turin-Milan;Genève;Albertville;Chambéry",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7757613,
+            45.203252
+          ],
+          [
+            5.7790134,
+            45.2037178
+          ],
+          [
+            5.7808203,
+            45.2039859
+          ],
+          [
+            5.7827297,
+            45.2042822
+          ],
+          [
+            5.7866394,
+            45.2049308
+          ],
+          [
+            5.7888943,
+            45.2053518
+          ],
+          [
+            5.7912142,
+            45.2058196
+          ],
+          [
+            5.7927294,
+            45.2061433
+          ],
+          [
+            5.7957483,
+            45.2068402
+          ]
+        ]
+      },
+      "id": "way/4020688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4089828",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "4",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "none|none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6610006,
+            45.2390768
+          ],
+          [
+            5.6597179,
+            45.2409667
+          ]
+        ]
+      },
+      "id": "way/4089828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4247746",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "90",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7690125,
+            45.2024629
+          ],
+          [
+            5.767378,
+            45.2022525
+          ],
+          [
+            5.7660204,
+            45.2020591
+          ],
+          [
+            5.7648356,
+            45.2018461
+          ],
+          [
+            5.7636238,
+            45.2016496
+          ],
+          [
+            5.7624871,
+            45.201449
+          ],
+          [
+            5.7613455,
+            45.2012612
+          ]
+        ]
+      },
+      "id": "way/4247746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4247752",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxspeed": "70",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41s",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7613455,
+            45.2012612
+          ],
+          [
+            5.7607208,
+            45.201138
+          ],
+          [
+            5.7603025,
+            45.2010466
+          ],
+          [
+            5.7597764,
+            45.2009573
+          ],
+          [
+            5.7595684,
+            45.2009322
+          ],
+          [
+            5.7593686,
+            45.2009218
+          ],
+          [
+            5.7592373,
+            45.2009129
+          ],
+          [
+            5.759038,
+            45.2009049
+          ]
+        ]
+      },
+      "id": "way/4247752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4247773",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41s",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7591331,
+            45.2005159
+          ],
+          [
+            5.7592018,
+            45.2005363
+          ],
+          [
+            5.7595994,
+            45.2006541
+          ],
+          [
+            5.7598111,
+            45.2007119
+          ],
+          [
+            5.7604232,
+            45.2008676
+          ],
+          [
+            5.7636579,
+            45.2014524
+          ],
+          [
+            5.7660651,
+            45.2018799
+          ],
+          [
+            5.7673999,
+            45.2021018
+          ],
+          [
+            5.7689841,
+            45.2023276
+          ],
+          [
+            5.7757613,
+            45.203252
+          ]
+        ]
+      },
+      "id": "way/4247773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4247774",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7790179,
+            45.2038525
+          ],
+          [
+            5.7757259,
+            45.2033906
+          ],
+          [
+            5.7690125,
+            45.2024629
+          ]
+        ]
+      },
+      "id": "way/4247774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4332087",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "110",
+        "name": "Autoroute du Trièves",
+        "oneway": "yes",
+        "ref": "A 51",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6813234,
+            45.1108756
+          ],
+          [
+            5.6810682,
+            45.1105468
+          ],
+          [
+            5.6808142,
+            45.1102532
+          ],
+          [
+            5.6801158,
+            45.109481
+          ]
+        ]
+      },
+      "id": "way/4332087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4372071",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "130",
+        "name": "Autoroute du Trièves",
+        "oneway": "yes",
+        "ref": "A 51",
+        "source:maxspeed": "FR:motorway",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6695594,
+            45.0918975
+          ],
+          [
+            5.6701717,
+            45.0937398
+          ],
+          [
+            5.6702897,
+            45.0940634
+          ],
+          [
+            5.6704005,
+            45.0943347
+          ],
+          [
+            5.6705486,
+            45.0946537
+          ],
+          [
+            5.670657,
+            45.0948725
+          ],
+          [
+            5.6707783,
+            45.0950968
+          ],
+          [
+            5.670964,
+            45.0954127
+          ],
+          [
+            5.6712575,
+            45.0958375
+          ],
+          [
+            5.671457,
+            45.0961092
+          ],
+          [
+            5.6716631,
+            45.0963599
+          ],
+          [
+            5.6719245,
+            45.0966544
+          ],
+          [
+            5.6721819,
+            45.0969252
+          ],
+          [
+            5.6725561,
+            45.0972853
+          ],
+          [
+            5.6733211,
+            45.0980094
+          ],
+          [
+            5.6735795,
+            45.0982713
+          ],
+          [
+            5.6737881,
+            45.0984823
+          ],
+          [
+            5.6740562,
+            45.0987772
+          ],
+          [
+            5.6742861,
+            45.0990441
+          ],
+          [
+            5.6744644,
+            45.0992854
+          ],
+          [
+            5.6746273,
+            45.0995089
+          ],
+          [
+            5.6748378,
+            45.0998387
+          ],
+          [
+            5.6750293,
+            45.1001647
+          ],
+          [
+            5.675208,
+            45.1005
+          ],
+          [
+            5.6755477,
+            45.1011525
+          ],
+          [
+            5.6785547,
+            45.1070653
+          ],
+          [
+            5.6786929,
+            45.1073209
+          ],
+          [
+            5.678867,
+            45.1076199
+          ],
+          [
+            5.6790064,
+            45.1078406
+          ],
+          [
+            5.6791472,
+            45.1080409
+          ],
+          [
+            5.6793884,
+            45.1083545
+          ],
+          [
+            5.6796248,
+            45.1086409
+          ],
+          [
+            5.6799248,
+            45.108983
+          ],
+          [
+            5.6802624,
+            45.1093446
+          ],
+          [
+            5.6810304,
+            45.1101972
+          ],
+          [
+            5.6813587,
+            45.1105912
+          ],
+          [
+            5.6815167,
+            45.1107965
+          ],
+          [
+            5.6816711,
+            45.1110162
+          ],
+          [
+            5.6818011,
+            45.1112193
+          ],
+          [
+            5.6819471,
+            45.1114552
+          ],
+          [
+            5.6821433,
+            45.1118075
+          ],
+          [
+            5.6823219,
+            45.1121768
+          ],
+          [
+            5.6829017,
+            45.1134824
+          ]
+        ]
+      },
+      "id": "way/4372071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4445151",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "130",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "source:maxspeed": "FR:motorway",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.8277699,
+            45.2284066
+          ],
+          [
+            5.8303529,
+            45.2305236
+          ],
+          [
+            5.8315301,
+            45.2314286
+          ],
+          [
+            5.8326605,
+            45.2322649
+          ],
+          [
+            5.8337849,
+            45.2330667
+          ],
+          [
+            5.8349031,
+            45.233825
+          ],
+          [
+            5.8362372,
+            45.2346951
+          ],
+          [
+            5.8375446,
+            45.2355156
+          ],
+          [
+            5.8386088,
+            45.2361319
+          ],
+          [
+            5.8396278,
+            45.2366753
+          ],
+          [
+            5.8406313,
+            45.2372022
+          ],
+          [
+            5.8417054,
+            45.2377244
+          ],
+          [
+            5.8429242,
+            45.2382915
+          ],
+          [
+            5.8454798,
+            45.2393435
+          ],
+          [
+            5.8477517,
+            45.2401577
+          ],
+          [
+            5.8487392,
+            45.2404909
+          ],
+          [
+            5.8499123,
+            45.2408555
+          ],
+          [
+            5.8526063,
+            45.2416363
+          ],
+          [
+            5.8554922,
+            45.2424243
+          ],
+          [
+            5.8577011,
+            45.2430616
+          ],
+          [
+            5.8598334,
+            45.243718
+          ],
+          [
+            5.860947,
+            45.2440941
+          ],
+          [
+            5.8618955,
+            45.2444244
+          ],
+          [
+            5.8640098,
+            45.2452068
+          ],
+          [
+            5.8655818,
+            45.2458526
+          ],
+          [
+            5.866302,
+            45.2461436
+          ],
+          [
+            5.8674568,
+            45.2466537
+          ],
+          [
+            5.8691604,
+            45.2474559
+          ],
+          [
+            5.8704807,
+            45.2481113
+          ],
+          [
+            5.8717536,
+            45.2487636
+          ],
+          [
+            5.8728778,
+            45.2493748
+          ],
+          [
+            5.8743388,
+            45.2502098
+          ],
+          [
+            5.8755218,
+            45.2509336
+          ],
+          [
+            5.8766619,
+            45.2516604
+          ],
+          [
+            5.8777976,
+            45.2524095
+          ],
+          [
+            5.8788944,
+            45.2531624
+          ],
+          [
+            5.8799972,
+            45.2539378
+          ],
+          [
+            5.881152,
+            45.2547873
+          ]
+        ]
+      },
+      "id": "way/4445151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4701004",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "4",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "none|none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6635571,
+            45.2338766
+          ],
+          [
+            5.663913,
+            45.233217
+          ],
+          [
+            5.6642112,
+            45.2326741
+          ],
+          [
+            5.6646605,
+            45.231918
+          ]
+        ]
+      },
+      "id": "way/4701004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4701005",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6804821,
+            45.2157216
+          ],
+          [
+            5.678379,
+            45.216784
+          ],
+          [
+            5.6774095,
+            45.2172959
+          ],
+          [
+            5.6767631,
+            45.2176671
+          ],
+          [
+            5.6759189,
+            45.2182156
+          ],
+          [
+            5.6753703,
+            45.2186067
+          ],
+          [
+            5.6750677,
+            45.2188223
+          ],
+          [
+            5.674374,
+            45.2193936
+          ],
+          [
+            5.6737705,
+            45.2199528
+          ],
+          [
+            5.6732232,
+            45.2205126
+          ],
+          [
+            5.6724876,
+            45.2213769
+          ],
+          [
+            5.6708826,
+            45.223528
+          ],
+          [
+            5.6702564,
+            45.224365
+          ]
+        ]
+      },
+      "id": "way/4701005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4701006",
+        "destination": "Grenoble-Bastille;Grenoble-Centre;Autres Directions",
+        "destination:ref": "A48",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6602591,
+            45.2398125
+          ],
+          [
+            5.6605929,
+            45.2393282
+          ],
+          [
+            5.6610745,
+            45.238561
+          ],
+          [
+            5.6615438,
+            45.2377735
+          ],
+          [
+            5.6619343,
+            45.237056
+          ]
+        ]
+      },
+      "id": "way/4701006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4701007",
+        "destination": "Voreppe;Grenoble Isère;Lyon;Bourg en Bresse;Valence",
+        "destination:ref": "A48;E711;E713",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6642836,
+            45.2329862
+          ],
+          [
+            5.6632314,
+            45.2349852
+          ],
+          [
+            5.6625007,
+            45.236487
+          ],
+          [
+            5.662223,
+            45.2369804
+          ]
+        ]
+      },
+      "id": "way/4701007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5200075",
+        "destination": "Côte d'Azur;Grenoble-centre;Chambéry;Autres Directions",
+        "destination:ref": "A480",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6751631,
+            45.2184975
+          ],
+          [
+            5.6758149,
+            45.2180638
+          ],
+          [
+            5.6765107,
+            45.2176101
+          ],
+          [
+            5.6771171,
+            45.2172527
+          ],
+          [
+            5.6779515,
+            45.2167894
+          ],
+          [
+            5.6787094,
+            45.2163999
+          ],
+          [
+            5.679683,
+            45.2159273
+          ],
+          [
+            5.6806878,
+            45.2154269
+          ],
+          [
+            5.681417,
+            45.2150656
+          ],
+          [
+            5.6817933,
+            45.2148687
+          ],
+          [
+            5.6821747,
+            45.2146605
+          ],
+          [
+            5.6824509,
+            45.2144936
+          ]
+        ]
+      },
+      "id": "way/5200075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5554878",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "3",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6829017,
+            45.1134824
+          ],
+          [
+            5.6830445,
+            45.1138021
+          ],
+          [
+            5.6831752,
+            45.1140747
+          ],
+          [
+            5.6834394,
+            45.1145592
+          ],
+          [
+            5.6836796,
+            45.1149557
+          ],
+          [
+            5.6839268,
+            45.1153368
+          ],
+          [
+            5.6845969,
+            45.1163544
+          ]
+        ]
+      },
+      "id": "way/5554878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23588165",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7029147,
+            45.1943264
+          ],
+          [
+            5.7028429,
+            45.1947049
+          ],
+          [
+            5.7026957,
+            45.1952004
+          ],
+          [
+            5.7025279,
+            45.1956841
+          ],
+          [
+            5.7022715,
+            45.1961954
+          ],
+          [
+            5.7021361,
+            45.1964203
+          ],
+          [
+            5.7019979,
+            45.1966381
+          ],
+          [
+            5.7018371,
+            45.1968606
+          ],
+          [
+            5.7015649,
+            45.1972083
+          ],
+          [
+            5.7012964,
+            45.1975581
+          ],
+          [
+            5.7008892,
+            45.1979314
+          ],
+          [
+            5.7004768,
+            45.1982708
+          ],
+          [
+            5.6998578,
+            45.1987039
+          ],
+          [
+            5.6963718,
+            45.2011314
+          ],
+          [
+            5.6934423,
+            45.2031848
+          ],
+          [
+            5.690527,
+            45.2051852
+          ],
+          [
+            5.6897922,
+            45.2056949
+          ],
+          [
+            5.6889525,
+            45.2063097
+          ],
+          [
+            5.6884609,
+            45.2066999
+          ],
+          [
+            5.6880347,
+            45.2070779
+          ],
+          [
+            5.6875816,
+            45.2075488
+          ],
+          [
+            5.6873208,
+            45.2078368
+          ]
+        ]
+      },
+      "id": "way/23588165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23747444",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7018496,
+            45.1662075
+          ],
+          [
+            5.7019371,
+            45.1687672
+          ],
+          [
+            5.7019876,
+            45.170149
+          ],
+          [
+            5.7020537,
+            45.1714761
+          ],
+          [
+            5.702217,
+            45.1752061
+          ],
+          [
+            5.7022622,
+            45.1762474
+          ]
+        ]
+      },
+      "id": "way/23747444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23747445",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7018626,
+            45.1699709
+          ],
+          [
+            5.7018244,
+            45.1690667
+          ]
+        ]
+      },
+      "id": "way/23747445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23747446",
+        "destination": "[Bis] Côte d'Azur;Espace Comboire;Pont de Claix;Gap - Briançon;Sisteron",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7014844,
+            45.1609732
+          ],
+          [
+            5.7014399,
+            45.1600632
+          ],
+          [
+            5.7014171,
+            45.1596646
+          ],
+          [
+            5.7013901,
+            45.159421
+          ],
+          [
+            5.701351,
+            45.1591803
+          ],
+          [
+            5.7013236,
+            45.1590571
+          ],
+          [
+            5.7012679,
+            45.158867
+          ]
+        ]
+      },
+      "id": "way/23747446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23747447",
+        "destination": "Pont de Claix;Gap-Briançon;Sisteron",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7015843,
+            45.1631045
+          ],
+          [
+            5.701515,
+            45.1614538
+          ],
+          [
+            5.7014844,
+            45.1609732
+          ]
+        ]
+      },
+      "id": "way/23747447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23747453",
+        "bridge": "yes",
+        "destination": "Grenoble-Centre;Lyon;Valence",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7002459,
+            45.1570339
+          ],
+          [
+            5.7004444,
+            45.1573149
+          ]
+        ]
+      },
+      "id": "way/23747453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23747454",
+        "destination": "Lyon;Valence",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7012926,
+            45.1585422
+          ],
+          [
+            5.7014116,
+            45.1588936
+          ],
+          [
+            5.7015041,
+            45.1592356
+          ],
+          [
+            5.7015275,
+            45.1593568
+          ],
+          [
+            5.7015609,
+            45.159584
+          ],
+          [
+            5.7015776,
+            45.1598199
+          ],
+          [
+            5.7016403,
+            45.1615869
+          ]
+        ]
+      },
+      "id": "way/23747454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23747649",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6976134,
+            45.1523291
+          ],
+          [
+            5.6973868,
+            45.1517935
+          ],
+          [
+            5.697143,
+            45.1512815
+          ],
+          [
+            5.6969325,
+            45.1508407
+          ]
+        ]
+      },
+      "id": "way/23747649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23747650",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6928891,
+            45.1423166
+          ],
+          [
+            5.6924357,
+            45.141367
+          ],
+          [
+            5.6915984,
+            45.1395859
+          ]
+        ]
+      },
+      "id": "way/23747650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23747651",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6902173,
+            45.1323762
+          ],
+          [
+            5.6901783,
+            45.1329202
+          ],
+          [
+            5.6901828,
+            45.1331703
+          ],
+          [
+            5.6901999,
+            45.1333982
+          ],
+          [
+            5.6902245,
+            45.1336442
+          ],
+          [
+            5.6902529,
+            45.1339016
+          ],
+          [
+            5.6903157,
+            45.1342641
+          ],
+          [
+            5.6907784,
+            45.1368562
+          ],
+          [
+            5.6908434,
+            45.1372194
+          ],
+          [
+            5.6909209,
+            45.1375502
+          ],
+          [
+            5.6909916,
+            45.1377922
+          ],
+          [
+            5.6911015,
+            45.1381167
+          ],
+          [
+            5.691492,
+            45.1390258
+          ],
+          [
+            5.691648,
+            45.1393778
+          ]
+        ]
+      },
+      "id": "way/23747651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23766401",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7023479,
+            45.1798937
+          ],
+          [
+            5.7023211,
+            45.1791767
+          ],
+          [
+            5.7022814,
+            45.1782697
+          ],
+          [
+            5.7022072,
+            45.1771991
+          ],
+          [
+            5.7021926,
+            45.1770234
+          ]
+        ]
+      },
+      "id": "way/23766401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23766402",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7022622,
+            45.1762474
+          ],
+          [
+            5.7023231,
+            45.1771958
+          ],
+          [
+            5.7023958,
+            45.1782719
+          ],
+          [
+            5.7024367,
+            45.1791821
+          ],
+          [
+            5.7024696,
+            45.1800852
+          ]
+        ]
+      },
+      "id": "way/23766402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23766407",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.702455,
+            45.1839818
+          ],
+          [
+            5.7024074,
+            45.1822438
+          ],
+          [
+            5.7023986,
+            45.1815092
+          ]
+        ]
+      },
+      "id": "way/23766407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23766408",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7024696,
+            45.1800852
+          ],
+          [
+            5.7025142,
+            45.1813375
+          ],
+          [
+            5.7025939,
+            45.1822444
+          ],
+          [
+            5.7026024,
+            45.1825111
+          ],
+          [
+            5.7025632,
+            45.1833111
+          ],
+          [
+            5.7025786,
+            45.1840344
+          ],
+          [
+            5.702646,
+            45.1859367
+          ]
+        ]
+      },
+      "id": "way/23766408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23766425",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "layer": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6824509,
+            45.2144936
+          ],
+          [
+            5.6827684,
+            45.2142854
+          ],
+          [
+            5.6831482,
+            45.2140068
+          ],
+          [
+            5.6833607,
+            45.2138357
+          ],
+          [
+            5.6835905,
+            45.2136321
+          ],
+          [
+            5.6838691,
+            45.2133527
+          ]
+        ]
+      },
+      "id": "way/23766425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23766426",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "layer": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6840834,
+            45.2133502
+          ],
+          [
+            5.6838765,
+            45.2135663
+          ],
+          [
+            5.6837188,
+            45.2137246
+          ],
+          [
+            5.6834901,
+            45.2139234
+          ],
+          [
+            5.6832371,
+            45.2141376
+          ],
+          [
+            5.6827885,
+            45.2144727
+          ],
+          [
+            5.6822265,
+            45.2148215
+          ],
+          [
+            5.6804821,
+            45.2157216
+          ]
+        ]
+      },
+      "id": "way/23766426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23766427",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "layer": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6854426,
+            45.2110538
+          ],
+          [
+            5.6849165,
+            45.2121233
+          ],
+          [
+            5.6848193,
+            45.2122893
+          ]
+        ]
+      },
+      "id": "way/23766427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23766428",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6838691,
+            45.2133527
+          ],
+          [
+            5.684125,
+            45.2130546
+          ]
+        ]
+      },
+      "id": "way/23766428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23766429",
+        "destination": "Fontaine - centre;Grenoble - centre;Rocade Sud;Autres Directions",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6852562,
+            45.211107
+          ],
+          [
+            5.6855273,
+            45.2105263
+          ],
+          [
+            5.6858626,
+            45.2098625
+          ],
+          [
+            5.6860914,
+            45.2094278
+          ],
+          [
+            5.6863058,
+            45.2090564
+          ],
+          [
+            5.6865107,
+            45.2087139
+          ],
+          [
+            5.6867557,
+            45.2083458
+          ],
+          [
+            5.6869704,
+            45.2080521
+          ],
+          [
+            5.6872359,
+            45.2077253
+          ],
+          [
+            5.6874726,
+            45.2074661
+          ],
+          [
+            5.6879343,
+            45.2070008
+          ],
+          [
+            5.6883516,
+            45.2066245
+          ],
+          [
+            5.6888385,
+            45.2062392
+          ],
+          [
+            5.6892566,
+            45.205913
+          ]
+        ]
+      },
+      "id": "way/23766429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23766430",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6873208,
+            45.2078368
+          ],
+          [
+            5.6868521,
+            45.2084284
+          ],
+          [
+            5.6866267,
+            45.2087684
+          ],
+          [
+            5.6864138,
+            45.2091057
+          ],
+          [
+            5.6861416,
+            45.2096065
+          ],
+          [
+            5.6854426,
+            45.2110538
+          ]
+        ]
+      },
+      "id": "way/23766430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23766485",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7028007,
+            45.1939033
+          ],
+          [
+            5.7028247,
+            45.1935808
+          ],
+          [
+            5.7028295,
+            45.1933048
+          ],
+          [
+            5.7028234,
+            45.1927861
+          ],
+          [
+            5.7028184,
+            45.192468
+          ],
+          [
+            5.7027955,
+            45.1920668
+          ],
+          [
+            5.702722,
+            45.190682
+          ],
+          [
+            5.7026933,
+            45.1901664
+          ]
+        ]
+      },
+      "id": "way/23766485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23766487",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7027292,
+            45.1878776
+          ],
+          [
+            5.7027887,
+            45.1891437
+          ],
+          [
+            5.7028754,
+            45.1906793
+          ],
+          [
+            5.7029478,
+            45.1920383
+          ],
+          [
+            5.7029803,
+            45.1927691
+          ],
+          [
+            5.7029783,
+            45.1933208
+          ],
+          [
+            5.7029602,
+            45.1938334
+          ],
+          [
+            5.7029147,
+            45.1943264
+          ]
+        ]
+      },
+      "id": "way/23766487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23775967",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6845969,
+            45.1163544
+          ],
+          [
+            5.6852372,
+            45.1173686
+          ],
+          [
+            5.6861267,
+            45.1187253
+          ],
+          [
+            5.6867681,
+            45.119666
+          ],
+          [
+            5.6880262,
+            45.1214454
+          ]
+        ]
+      },
+      "id": "way/23775967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23775968",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6891198,
+            45.1235695
+          ],
+          [
+            5.6885876,
+            45.1227109
+          ],
+          [
+            5.6862485,
+            45.1191442
+          ],
+          [
+            5.6857033,
+            45.1183091
+          ],
+          [
+            5.6847487,
+            45.116864
+          ],
+          [
+            5.6837571,
+            45.1153427
+          ],
+          [
+            5.6835582,
+            45.1150319
+          ],
+          [
+            5.6833541,
+            45.1146998
+          ],
+          [
+            5.6832093,
+            45.1144498
+          ],
+          [
+            5.6830478,
+            45.1141629
+          ],
+          [
+            5.6828642,
+            45.1138171
+          ],
+          [
+            5.6826147,
+            45.1132905
+          ],
+          [
+            5.6822778,
+            45.112523
+          ],
+          [
+            5.6821443,
+            45.1122268
+          ],
+          [
+            5.6819546,
+            45.1118551
+          ],
+          [
+            5.6817953,
+            45.1115725
+          ],
+          [
+            5.6816042,
+            45.111274
+          ],
+          [
+            5.6814551,
+            45.1110513
+          ],
+          [
+            5.6813234,
+            45.1108756
+          ]
+        ]
+      },
+      "id": "way/23775968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27203164",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "maxspeed": "130",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "source:maxspeed": "FR:motorway",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.881152,
+            45.2547873
+          ],
+          [
+            5.8832408,
+            45.256381
+          ],
+          [
+            5.8857009,
+            45.2583227
+          ],
+          [
+            5.8881394,
+            45.2603421
+          ],
+          [
+            5.8903642,
+            45.2621988
+          ]
+        ]
+      },
+      "id": "way/27203164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27210911",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "maxspeed": "130",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "source:maxspeed": "FR:motorway",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.8259732,
+            45.2270442
+          ],
+          [
+            5.824617,
+            45.2257654
+          ],
+          [
+            5.8234372,
+            45.2246134
+          ],
+          [
+            5.8221085,
+            45.2232776
+          ],
+          [
+            5.8210472,
+            45.2221823
+          ],
+          [
+            5.8207921,
+            45.2219093
+          ]
+        ]
+      },
+      "id": "way/27210911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28712658",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "3",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.8123163,
+            45.2137451
+          ],
+          [
+            5.8127344,
+            45.2140319
+          ],
+          [
+            5.8137475,
+            45.2147917
+          ],
+          [
+            5.8147332,
+            45.2155954
+          ],
+          [
+            5.8161333,
+            45.2168568
+          ],
+          [
+            5.817444,
+            45.2181387
+          ],
+          [
+            5.8185216,
+            45.2192737
+          ]
+        ]
+      },
+      "id": "way/28712658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28712689",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.806707,
+            45.2104996
+          ],
+          [
+            5.8069587,
+            45.2106187
+          ]
+        ]
+      },
+      "id": "way/28712689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28712692",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "3",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.8069587,
+            45.2106187
+          ],
+          [
+            5.8078382,
+            45.2110642
+          ],
+          [
+            5.8090209,
+            45.2116983
+          ],
+          [
+            5.8102467,
+            45.2123991
+          ],
+          [
+            5.8115073,
+            45.2131901
+          ],
+          [
+            5.8121685,
+            45.2136437
+          ]
+        ]
+      },
+      "id": "way/28712692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28712694",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.8068565,
+            45.2107285
+          ],
+          [
+            5.8066128,
+            45.2106135
+          ]
+        ]
+      },
+      "id": "way/28712694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28712695",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "3",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.8066128,
+            45.2106135
+          ],
+          [
+            5.8055613,
+            45.2101338
+          ],
+          [
+            5.8040529,
+            45.2095117
+          ],
+          [
+            5.802503,
+            45.2089324
+          ],
+          [
+            5.8009791,
+            45.2084172
+          ],
+          [
+            5.7994075,
+            45.2079277
+          ],
+          [
+            5.797974,
+            45.2075258
+          ],
+          [
+            5.7970567,
+            45.2073005
+          ]
+        ]
+      },
+      "id": "way/28712695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/39543303",
+        "destination:lanes": "Pont de Claix;Gap;Briançon;Sisteron|Pont de Claix;Gap;Briançon;Sisteron|Espace Comboire - nord",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.698822,
+            45.1548616
+          ],
+          [
+            5.6982229,
+            45.1536019
+          ],
+          [
+            5.6976134,
+            45.1523291
+          ]
+        ]
+      },
+      "id": "way/39543303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42785010",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.8247411,
+            45.2256523
+          ],
+          [
+            5.8260491,
+            45.2268934
+          ],
+          [
+            5.827213,
+            45.2279355
+          ],
+          [
+            5.8277699,
+            45.2284066
+          ]
+        ]
+      },
+      "id": "way/42785010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43572532",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.8122375,
+            45.2138733
+          ],
+          [
+            5.8120983,
+            45.2137712
+          ]
+        ]
+      },
+      "id": "way/43572532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43572567",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.8121685,
+            45.2136437
+          ],
+          [
+            5.8123163,
+            45.2137451
+          ]
+        ]
+      },
+      "id": "way/43572567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/60288932",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "130",
+        "name": "Autoroute du Trièves",
+        "oneway": "yes",
+        "ref": "A 51",
+        "source:maxspeed": "FR:motorway",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6801158,
+            45.109481
+          ],
+          [
+            5.6797506,
+            45.1090813
+          ],
+          [
+            5.6793745,
+            45.1086591
+          ],
+          [
+            5.6791696,
+            45.1084086
+          ],
+          [
+            5.6789484,
+            45.1081143
+          ],
+          [
+            5.6788056,
+            45.107912
+          ],
+          [
+            5.6786583,
+            45.1076868
+          ],
+          [
+            5.6784056,
+            45.1072391
+          ],
+          [
+            5.6781295,
+            45.1067031
+          ],
+          [
+            5.6753683,
+            45.1012754
+          ],
+          [
+            5.6749783,
+            45.100509
+          ],
+          [
+            5.6748023,
+            45.1001924
+          ],
+          [
+            5.6746094,
+            45.099859
+          ],
+          [
+            5.6743879,
+            45.0995293
+          ],
+          [
+            5.6742521,
+            45.0993419
+          ],
+          [
+            5.6740851,
+            45.0991255
+          ],
+          [
+            5.6738521,
+            45.0988417
+          ],
+          [
+            5.6736546,
+            45.0986242
+          ],
+          [
+            5.6734309,
+            45.0983946
+          ],
+          [
+            5.6731732,
+            45.0981437
+          ],
+          [
+            5.6724493,
+            45.0974808
+          ],
+          [
+            5.6722863,
+            45.0972959
+          ],
+          [
+            5.671966,
+            45.0969773
+          ],
+          [
+            5.6717263,
+            45.0967302
+          ],
+          [
+            5.6714514,
+            45.0964215
+          ],
+          [
+            5.6712676,
+            45.0961968
+          ],
+          [
+            5.6710483,
+            45.0959036
+          ],
+          [
+            5.6707608,
+            45.0954844
+          ],
+          [
+            5.6705711,
+            45.0951612
+          ],
+          [
+            5.6704448,
+            45.094929
+          ],
+          [
+            5.6702938,
+            45.0946292
+          ],
+          [
+            5.6701386,
+            45.0942767
+          ],
+          [
+            5.6700448,
+            45.0940415
+          ],
+          [
+            5.6699633,
+            45.0938228
+          ],
+          [
+            5.6693596,
+            45.0920054
+          ],
+          [
+            5.6691558,
+            45.0913914
+          ],
+          [
+            5.6690709,
+            45.091129
+          ],
+          [
+            5.6690127,
+            45.0909123
+          ]
+        ]
+      },
+      "id": "way/60288932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/60288982",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6969325,
+            45.1508407
+          ],
+          [
+            5.6966322,
+            45.1501987
+          ]
+        ]
+      },
+      "id": "way/60288982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/66953405",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6700929,
+            45.2245786
+          ],
+          [
+            5.6690707,
+            45.225956
+          ],
+          [
+            5.6680982,
+            45.2272619
+          ],
+          [
+            5.6667346,
+            45.2290929
+          ],
+          [
+            5.6657843,
+            45.2304998
+          ],
+          [
+            5.6657492,
+            45.2305562
+          ],
+          [
+            5.6648777,
+            45.2319539
+          ],
+          [
+            5.664738,
+            45.2321947
+          ]
+        ]
+      },
+      "id": "way/66953405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/66958578",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6702564,
+            45.224365
+          ],
+          [
+            5.6700929,
+            45.2245786
+          ]
+        ]
+      },
+      "id": "way/66958578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/66960630",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.670035,
+            45.2243281
+          ],
+          [
+            5.670699,
+            45.2234544
+          ],
+          [
+            5.6715087,
+            45.2223756
+          ]
+        ]
+      },
+      "id": "way/66960630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/66964085",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6698928,
+            45.2245304
+          ],
+          [
+            5.670035,
+            45.2243281
+          ]
+        ]
+      },
+      "id": "way/66964085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/80446529",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6619343,
+            45.237056
+          ],
+          [
+            5.6619955,
+            45.2369443
+          ]
+        ]
+      },
+      "id": "way/80446529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89505791",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "layer": "1",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6966314,
+            45.1499258
+          ],
+          [
+            5.6967492,
+            45.1501746
+          ]
+        ]
+      },
+      "id": "way/89505791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89505792",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6967492,
+            45.1501746
+          ],
+          [
+            5.6970495,
+            45.1508183
+          ],
+          [
+            5.6972673,
+            45.1512752
+          ],
+          [
+            5.6974811,
+            45.1517294
+          ],
+          [
+            5.6980128,
+            45.1528125
+          ]
+        ]
+      },
+      "id": "way/89505792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89505799",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6965122,
+            45.1499511
+          ],
+          [
+            5.6949397,
+            45.1466436
+          ],
+          [
+            5.6932507,
+            45.1430797
+          ]
+        ]
+      },
+      "id": "way/89505799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89505806",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6966322,
+            45.1501987
+          ],
+          [
+            5.6965122,
+            45.1499511
+          ]
+        ]
+      },
+      "id": "way/89505806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95439798",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "layer": "1",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2011",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.689905,
+            45.124711
+          ],
+          [
+            5.6902664,
+            45.1253237
+          ],
+          [
+            5.6904409,
+            45.1256492
+          ],
+          [
+            5.6905899,
+            45.1259437
+          ]
+        ]
+      },
+      "id": "way/95439798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95439806",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "layer": "1",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2011",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6905019,
+            45.1260183
+          ],
+          [
+            5.6903624,
+            45.125723
+          ],
+          [
+            5.6901841,
+            45.12539
+          ],
+          [
+            5.6898284,
+            45.1247841
+          ]
+        ]
+      },
+      "id": "way/95439806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95439810",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2011",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6898284,
+            45.1247841
+          ],
+          [
+            5.6894234,
+            45.1240914
+          ],
+          [
+            5.6891198,
+            45.1235695
+          ]
+        ]
+      },
+      "id": "way/95439810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95439831",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2011",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6905899,
+            45.1259437
+          ],
+          [
+            5.6907498,
+            45.1263063
+          ],
+          [
+            5.6908773,
+            45.1266327
+          ],
+          [
+            5.6909562,
+            45.1268646
+          ],
+          [
+            5.6910204,
+            45.1270875
+          ],
+          [
+            5.6910679,
+            45.1273145
+          ],
+          [
+            5.6911086,
+            45.1275471
+          ],
+          [
+            5.6911296,
+            45.1277827
+          ],
+          [
+            5.691136,
+            45.1280061
+          ],
+          [
+            5.691136,
+            45.1282318
+          ],
+          [
+            5.6911143,
+            45.1287064
+          ]
+        ]
+      },
+      "id": "way/95439831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/145004734",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "3",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.8120983,
+            45.2137712
+          ],
+          [
+            5.8114268,
+            45.2133023
+          ],
+          [
+            5.8101887,
+            45.2125164
+          ],
+          [
+            5.8089429,
+            45.2118104
+          ],
+          [
+            5.8077397,
+            45.2111649
+          ],
+          [
+            5.8068565,
+            45.2107285
+          ]
+        ]
+      },
+      "id": "way/145004734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/165939594",
+        "highway": "motorway",
+        "history": "Retrieved from v9",
+        "int_ref": "E 712",
+        "lanes": "4",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.8010254,
+            45.2082661
+          ],
+          [
+            5.8025589,
+            45.2087965
+          ],
+          [
+            5.8041114,
+            45.2093776
+          ],
+          [
+            5.8056595,
+            45.2100307
+          ],
+          [
+            5.806707,
+            45.2104996
+          ]
+        ]
+      },
+      "id": "way/165939594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/176330627",
+        "destination": "Pont de Claix;Briançon;Gap;Sisteron",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7001185,
+            45.1570747
+          ],
+          [
+            5.6998337,
+            45.1566902
+          ],
+          [
+            5.6996231,
+            45.1563635
+          ],
+          [
+            5.6995244,
+            45.1562171
+          ],
+          [
+            5.6994217,
+            45.1560375
+          ],
+          [
+            5.6992457,
+            45.1556971
+          ],
+          [
+            5.698822,
+            45.1548616
+          ]
+        ]
+      },
+      "id": "way/176330627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/176330628",
+        "destination": "Grenoble-Centre;Lyon;Valence",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7004444,
+            45.1573149
+          ],
+          [
+            5.7008706,
+            45.1578577
+          ],
+          [
+            5.7012635,
+            45.1584829
+          ],
+          [
+            5.7012926,
+            45.1585422
+          ]
+        ]
+      },
+      "id": "way/176330628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/176330631",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7003404,
+            45.1573641
+          ],
+          [
+            5.7001185,
+            45.1570747
+          ]
+        ]
+      },
+      "id": "way/176330631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/216118565",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.662223,
+            45.2369804
+          ],
+          [
+            5.6621568,
+            45.2371076
+          ]
+        ]
+      },
+      "id": "way/216118565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217436809",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no",
+        "turn:lanes": "none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7026933,
+            45.1901664
+          ],
+          [
+            5.7026221,
+            45.1888238
+          ]
+        ]
+      },
+      "id": "way/217436809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217436818",
+        "destination": "Claix;Varces;Sisteron;Aix en Pce;Nice",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6905429,
+            45.1302463
+          ],
+          [
+            5.6906739,
+            45.1299102
+          ],
+          [
+            5.6907503,
+            45.1296768
+          ],
+          [
+            5.6908611,
+            45.1292677
+          ],
+          [
+            5.6909383,
+            45.1289151
+          ],
+          [
+            5.690978,
+            45.1286738
+          ],
+          [
+            5.6910089,
+            45.128383
+          ],
+          [
+            5.6910216,
+            45.1281213
+          ],
+          [
+            5.6910156,
+            45.1278462
+          ],
+          [
+            5.6910018,
+            45.1276686
+          ],
+          [
+            5.6909676,
+            45.127408
+          ],
+          [
+            5.6909224,
+            45.1271717
+          ],
+          [
+            5.6908466,
+            45.1268877
+          ],
+          [
+            5.6907503,
+            45.1266057
+          ],
+          [
+            5.6906641,
+            45.1263822
+          ],
+          [
+            5.6905019,
+            45.1260183
+          ]
+        ]
+      },
+      "id": "way/217436818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217436820",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2011",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6911143,
+            45.1287064
+          ],
+          [
+            5.6910525,
+            45.1290455
+          ],
+          [
+            5.690938,
+            45.1295038
+          ],
+          [
+            5.6906956,
+            45.1302863
+          ],
+          [
+            5.6905668,
+            45.1306954
+          ],
+          [
+            5.6904973,
+            45.1309302
+          ],
+          [
+            5.6903967,
+            45.1312909
+          ],
+          [
+            5.6903212,
+            45.1316332
+          ],
+          [
+            5.690279,
+            45.13186
+          ],
+          [
+            5.6902416,
+            45.1321068
+          ],
+          [
+            5.6902173,
+            45.1323762
+          ]
+        ]
+      },
+      "id": "way/217436820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/257461455",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.702646,
+            45.1859367
+          ],
+          [
+            5.7027292,
+            45.1878776
+          ]
+        ]
+      },
+      "id": "way/257461455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/278509172",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6980128,
+            45.1528125
+          ],
+          [
+            5.6993363,
+            45.1555767
+          ],
+          [
+            5.6995053,
+            45.1559074
+          ],
+          [
+            5.6996293,
+            45.1561334
+          ],
+          [
+            5.6998319,
+            45.1564558
+          ],
+          [
+            5.7000543,
+            45.156772
+          ],
+          [
+            5.7002459,
+            45.1570339
+          ]
+        ]
+      },
+      "id": "way/278509172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/281201123",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6848193,
+            45.2122893
+          ],
+          [
+            5.6845444,
+            45.2127398
+          ]
+        ]
+      },
+      "id": "way/281201123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/281201125",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "layer": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6845444,
+            45.2127398
+          ],
+          [
+            5.6843825,
+            45.2129654
+          ]
+        ]
+      },
+      "id": "way/281201125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/281201126",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "layer": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.684125,
+            45.2130546
+          ],
+          [
+            5.6842788,
+            45.2128539
+          ]
+        ]
+      },
+      "id": "way/281201126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/281201127",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6842788,
+            45.2128539
+          ],
+          [
+            5.6844819,
+            45.2125729
+          ],
+          [
+            5.6846268,
+            45.2123387
+          ]
+        ]
+      },
+      "id": "way/281201127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/281201129",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6843825,
+            45.2129654
+          ],
+          [
+            5.6843036,
+            45.2130711
+          ],
+          [
+            5.6840834,
+            45.2133502
+          ]
+        ]
+      },
+      "id": "way/281201129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/281201130",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "layer": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6846268,
+            45.2123387
+          ],
+          [
+            5.684777,
+            45.2120592
+          ],
+          [
+            5.6852562,
+            45.211107
+          ]
+        ]
+      },
+      "id": "way/281201130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290044530",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6880262,
+            45.1214454
+          ],
+          [
+            5.6885172,
+            45.1221635
+          ],
+          [
+            5.6887386,
+            45.1224928
+          ],
+          [
+            5.6888639,
+            45.1227051
+          ],
+          [
+            5.6890406,
+            45.123034
+          ],
+          [
+            5.6892555,
+            45.1234779
+          ],
+          [
+            5.6894101,
+            45.1238051
+          ],
+          [
+            5.6895861,
+            45.1241376
+          ],
+          [
+            5.6897673,
+            45.1244613
+          ],
+          [
+            5.689905,
+            45.124711
+          ]
+        ]
+      },
+      "id": "way/290044530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/292166866",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "through|through|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.701733,
+            45.1668538
+          ],
+          [
+            5.7017043,
+            45.1660807
+          ]
+        ]
+      },
+      "id": "way/292166866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/294019260",
+        "destination": "Grenoble-Centre;Villard de Lans;Lyon",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7016403,
+            45.1615869
+          ],
+          [
+            5.7018496,
+            45.1662075
+          ]
+        ]
+      },
+      "id": "way/294019260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/294019261",
+        "destination": "Pont de Claix;Gap-Briançon;Sisteron",
+        "highway": "motorway",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7012679,
+            45.158867
+          ],
+          [
+            5.7011919,
+            45.1586663
+          ],
+          [
+            5.7010597,
+            45.158407
+          ],
+          [
+            5.7009479,
+            45.1582185
+          ],
+          [
+            5.7007461,
+            45.1579043
+          ],
+          [
+            5.7003404,
+            45.1573641
+          ]
+        ]
+      },
+      "id": "way/294019261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312959139",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6915085,
+            45.1393867
+          ],
+          [
+            5.6913643,
+            45.1390527
+          ]
+        ]
+      },
+      "id": "way/312959139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312959140",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "layer": "1",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.691648,
+            45.1393778
+          ],
+          [
+            5.6917371,
+            45.1395722
+          ]
+        ]
+      },
+      "id": "way/312959140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312959141",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6915984,
+            45.1395859
+          ],
+          [
+            5.6915085,
+            45.1393867
+          ]
+        ]
+      },
+      "id": "way/312959141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312959142",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6917371,
+            45.1395722
+          ],
+          [
+            5.6925463,
+            45.141339
+          ],
+          [
+            5.6950454,
+            45.1466058
+          ],
+          [
+            5.6966314,
+            45.1499258
+          ]
+        ]
+      },
+      "id": "way/312959142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/320640096",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "130",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "source:maxspeed": "FR:motorway",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.882892,
+            45.2563022
+          ],
+          [
+            5.8809065,
+            45.2547948
+          ],
+          [
+            5.8798829,
+            45.2540426
+          ],
+          [
+            5.8788089,
+            45.253294
+          ],
+          [
+            5.8776976,
+            45.2525285
+          ],
+          [
+            5.8765591,
+            45.2517751
+          ],
+          [
+            5.876172,
+            45.2515302
+          ],
+          [
+            5.8754171,
+            45.2510526
+          ],
+          [
+            5.8742343,
+            45.2503319
+          ],
+          [
+            5.8727964,
+            45.2494983
+          ],
+          [
+            5.8717008,
+            45.2488967
+          ],
+          [
+            5.87041,
+            45.2482161
+          ],
+          [
+            5.8690991,
+            45.2475577
+          ],
+          [
+            5.8674309,
+            45.2467829
+          ],
+          [
+            5.8662561,
+            45.2462678
+          ],
+          [
+            5.8655127,
+            45.2459613
+          ],
+          [
+            5.8639696,
+            45.2453266
+          ],
+          [
+            5.8618626,
+            45.2445341
+          ],
+          [
+            5.8609227,
+            45.2442013
+          ],
+          [
+            5.8598046,
+            45.2438277
+          ],
+          [
+            5.8576729,
+            45.2431744
+          ],
+          [
+            5.8554685,
+            45.24254
+          ],
+          [
+            5.852594,
+            45.2417449
+          ],
+          [
+            5.8498808,
+            45.2409731
+          ],
+          [
+            5.8487222,
+            45.2406139
+          ],
+          [
+            5.8477005,
+            45.240282
+          ],
+          [
+            5.8466127,
+            45.2399107
+          ],
+          [
+            5.8454189,
+            45.2394703
+          ],
+          [
+            5.8441564,
+            45.2389651
+          ],
+          [
+            5.8428632,
+            45.2384134
+          ],
+          [
+            5.8416333,
+            45.2378578
+          ],
+          [
+            5.8405475,
+            45.2373203
+          ],
+          [
+            5.8395443,
+            45.2367936
+          ],
+          [
+            5.838525,
+            45.236231
+          ],
+          [
+            5.8374604,
+            45.2356187
+          ],
+          [
+            5.8361397,
+            45.2348048
+          ],
+          [
+            5.8348347,
+            45.2339627
+          ],
+          [
+            5.8336947,
+            45.2331935
+          ],
+          [
+            5.8325448,
+            45.2323752
+          ],
+          [
+            5.8314302,
+            45.2315334
+          ],
+          [
+            5.8302507,
+            45.2306296
+          ],
+          [
+            5.82919,
+            45.2297856
+          ],
+          [
+            5.828231,
+            45.2290153
+          ],
+          [
+            5.8271107,
+            45.2280549
+          ],
+          [
+            5.8259732,
+            45.2270442
+          ]
+        ]
+      },
+      "id": "way/320640096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/373724920",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "3",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6899824,
+            45.132828
+          ],
+          [
+            5.6899943,
+            45.132613
+          ],
+          [
+            5.6900007,
+            45.132522
+          ]
+        ]
+      },
+      "id": "way/373724920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/373724921",
+        "destination:lanes": "Claix;Varces;Sisteron;Aix en Pce;Nice|Claix;Varces;Sisteron;Aix en Pce;Nice|Gap; Briançon;Vizille",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "3",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "through|through|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6900007,
+            45.132522
+          ],
+          [
+            5.6900374,
+            45.132219
+          ],
+          [
+            5.6900806,
+            45.131953
+          ],
+          [
+            5.6901164,
+            45.1317581
+          ],
+          [
+            5.6901601,
+            45.131564
+          ],
+          [
+            5.6902705,
+            45.1311324
+          ],
+          [
+            5.6905429,
+            45.1302463
+          ]
+        ]
+      },
+      "id": "way/373724921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/381337169",
+        "destination:lanes": "Grenoble - Centre; Chambéry; Autres Directions|Grenoble - Centre; Chambéry; Autres Directions|Grenoble - Bastilles - Gares; Saint Martin le Vinoux; Europole|Grenoble - Bastilles - Gares; Saint Martin le Vinoux; Europole",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "4",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6751191,
+            45.2185301
+          ],
+          [
+            5.6751631,
+            45.2184975
+          ]
+        ]
+      },
+      "id": "way/381337169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/381337172",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "4",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A 48",
+        "smoothness": "good",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "none|none|none|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.664738,
+            45.2321947
+          ],
+          [
+            5.6643669,
+            45.2328347
+          ],
+          [
+            5.6642836,
+            45.2329862
+          ]
+        ]
+      },
+      "id": "way/381337172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/381337179",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6597179,
+            45.2409667
+          ],
+          [
+            5.6587475,
+            45.242327
+          ],
+          [
+            5.6567115,
+            45.2451335
+          ],
+          [
+            5.6555821,
+            45.2466902
+          ],
+          [
+            5.6546606,
+            45.2479075
+          ],
+          [
+            5.6537636,
+            45.2489122
+          ],
+          [
+            5.6528038,
+            45.2498067
+          ],
+          [
+            5.651815,
+            45.250629
+          ],
+          [
+            5.6509597,
+            45.251282
+          ],
+          [
+            5.649627,
+            45.2522724
+          ],
+          [
+            5.6483503,
+            45.2532212
+          ],
+          [
+            5.6471636,
+            45.254081
+          ],
+          [
+            5.646979,
+            45.2542148
+          ],
+          [
+            5.6464177,
+            45.2545868
+          ],
+          [
+            5.6456646,
+            45.2550859
+          ],
+          [
+            5.6442203,
+            45.2559443
+          ],
+          [
+            5.6426693,
+            45.2567618
+          ],
+          [
+            5.6403332,
+            45.2580114
+          ],
+          [
+            5.6401081,
+            45.2581475
+          ],
+          [
+            5.6388626,
+            45.2589004
+          ],
+          [
+            5.6375855,
+            45.2597922
+          ],
+          [
+            5.6365222,
+            45.2606111
+          ],
+          [
+            5.6344918,
+            45.262259
+          ],
+          [
+            5.6320975,
+            45.2642163
+          ],
+          [
+            5.6306759,
+            45.2654399
+          ],
+          [
+            5.6298919,
+            45.2662013
+          ],
+          [
+            5.6292001,
+            45.2669719
+          ],
+          [
+            5.6287288,
+            45.2675717
+          ],
+          [
+            5.6284012,
+            45.2680436
+          ],
+          [
+            5.6282468,
+            45.2683068
+          ]
+        ]
+      },
+      "id": "way/381337179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/381337183",
+        "destination:lanes": "Grenoble - Centre; Chambéry; Autres Directions|Grenoble - Centre; Chambéry; Autres Directions|Grenoble - Bastilles - Gares; Saint Martin le Vinoux; Europole",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "through|through|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6715087,
+            45.2223756
+          ],
+          [
+            5.6719651,
+            45.2217597
+          ],
+          [
+            5.6723261,
+            45.2212991
+          ],
+          [
+            5.6730375,
+            45.2204356
+          ],
+          [
+            5.6736152,
+            45.2198404
+          ],
+          [
+            5.6742653,
+            45.2192214
+          ],
+          [
+            5.6748441,
+            45.2187407
+          ],
+          [
+            5.6751191,
+            45.2185301
+          ]
+        ]
+      },
+      "id": "way/381337183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/381337186",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6646605,
+            45.231918
+          ],
+          [
+            5.665538,
+            45.2304948
+          ],
+          [
+            5.6659018,
+            45.2299701
+          ],
+          [
+            5.6666369,
+            45.2289138
+          ],
+          [
+            5.6674354,
+            45.2278392
+          ],
+          [
+            5.6679323,
+            45.2271789
+          ],
+          [
+            5.6688995,
+            45.2258819
+          ],
+          [
+            5.6698928,
+            45.2245304
+          ]
+        ]
+      },
+      "id": "way/381337186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398471874",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "maxspeed": "110",
+        "name": "L'Alpine",
+        "oneway": "yes",
+        "ref": "A 41",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.8207921,
+            45.2219093
+          ],
+          [
+            5.8199269,
+            45.2209833
+          ],
+          [
+            5.8188542,
+            45.2198558
+          ]
+        ]
+      },
+      "id": "way/398471874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/433790949",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6277197,
+            45.2687792
+          ],
+          [
+            5.6279266,
+            45.2684261
+          ],
+          [
+            5.6281305,
+            45.2681
+          ],
+          [
+            5.6283255,
+            45.2678006
+          ],
+          [
+            5.6287891,
+            45.2671796
+          ],
+          [
+            5.6290611,
+            45.2668489
+          ],
+          [
+            5.6294387,
+            45.2664066
+          ],
+          [
+            5.6297817,
+            45.2660435
+          ],
+          [
+            5.6302694,
+            45.2655661
+          ],
+          [
+            5.6305852,
+            45.2652759
+          ],
+          [
+            5.6314406,
+            45.2645383
+          ],
+          [
+            5.6319337,
+            45.2641364
+          ],
+          [
+            5.6337586,
+            45.2626337
+          ],
+          [
+            5.6345123,
+            45.2620182
+          ],
+          [
+            5.6355284,
+            45.261185
+          ],
+          [
+            5.6364445,
+            45.2604423
+          ],
+          [
+            5.6370791,
+            45.2599403
+          ],
+          [
+            5.6374828,
+            45.2596315
+          ],
+          [
+            5.6380372,
+            45.2592354
+          ],
+          [
+            5.6386977,
+            45.258788
+          ],
+          [
+            5.6393668,
+            45.2583622
+          ],
+          [
+            5.6399348,
+            45.2580299
+          ],
+          [
+            5.6403017,
+            45.2578137
+          ],
+          [
+            5.6425478,
+            45.256605
+          ],
+          [
+            5.6436225,
+            45.2560325
+          ],
+          [
+            5.6441433,
+            45.2557551
+          ],
+          [
+            5.6447749,
+            45.2553948
+          ],
+          [
+            5.6453614,
+            45.2550437
+          ],
+          [
+            5.6458706,
+            45.2547319
+          ],
+          [
+            5.6462654,
+            45.2544784
+          ],
+          [
+            5.6466076,
+            45.2542493
+          ],
+          [
+            5.6470787,
+            45.2539188
+          ],
+          [
+            5.6477475,
+            45.2534349
+          ],
+          [
+            5.6484327,
+            45.2529208
+          ],
+          [
+            5.6494526,
+            45.2521568
+          ],
+          [
+            5.6508256,
+            45.2511158
+          ],
+          [
+            5.65167,
+            45.2504799
+          ],
+          [
+            5.6522858,
+            45.2499908
+          ],
+          [
+            5.6527246,
+            45.2496175
+          ],
+          [
+            5.6532569,
+            45.249134
+          ],
+          [
+            5.653697,
+            45.2486898
+          ],
+          [
+            5.6541932,
+            45.2481461
+          ],
+          [
+            5.6547781,
+            45.2474256
+          ],
+          [
+            5.6554018,
+            45.2465948
+          ],
+          [
+            5.6564992,
+            45.2450689
+          ],
+          [
+            5.6578975,
+            45.2431529
+          ],
+          [
+            5.6585658,
+            45.2422258
+          ],
+          [
+            5.6594396,
+            45.2410217
+          ],
+          [
+            5.6597449,
+            45.2405712
+          ]
+        ]
+      },
+      "id": "way/433790949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/433809705",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6892566,
+            45.205913
+          ],
+          [
+            5.6897625,
+            45.2055607
+          ],
+          [
+            5.6904579,
+            45.2050782
+          ],
+          [
+            5.690808,
+            45.2048347
+          ]
+        ]
+      },
+      "id": "way/433809705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/433809709",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7026221,
+            45.1888238
+          ],
+          [
+            5.7025785,
+            45.1878622
+          ],
+          [
+            5.7024878,
+            45.1851181
+          ],
+          [
+            5.7024751,
+            45.1846774
+          ]
+        ]
+      },
+      "id": "way/433809709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/433809713",
+        "destination:lanes": "Seyssinet Pariset;Grenoble - centre;Chambéry|Seyssinet Pariset;Grenoble - centre;Chambéry|Fontaine - centre",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7025977,
+            45.1950465
+          ],
+          [
+            5.7026858,
+            45.1946853
+          ],
+          [
+            5.7027551,
+            45.1943118
+          ],
+          [
+            5.7028007,
+            45.1939033
+          ]
+        ]
+      },
+      "id": "way/433809713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/433809717",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.690808,
+            45.2048347
+          ],
+          [
+            5.6916779,
+            45.2042372
+          ],
+          [
+            5.6933458,
+            45.20307
+          ],
+          [
+            5.6948822,
+            45.2020014
+          ],
+          [
+            5.6962658,
+            45.2010413
+          ],
+          [
+            5.6997916,
+            45.1985705
+          ],
+          [
+            5.7003802,
+            45.1981403
+          ],
+          [
+            5.7007647,
+            45.197829
+          ],
+          [
+            5.7011203,
+            45.1974943
+          ],
+          [
+            5.7014677,
+            45.1971292
+          ],
+          [
+            5.7016609,
+            45.1968861
+          ],
+          [
+            5.7018774,
+            45.196598
+          ],
+          [
+            5.7021519,
+            45.196152
+          ],
+          [
+            5.7023657,
+            45.1957142
+          ],
+          [
+            5.7025642,
+            45.1951841
+          ],
+          [
+            5.7025977,
+            45.1950465
+          ]
+        ]
+      },
+      "id": "way/433809717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/433809719",
+        "destination:lanes": "Autres Directions;Chambéry|Grenoble - centre;Autres Directions;Chambéry|Seyssinet P.",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "none|none|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7024751,
+            45.1846774
+          ],
+          [
+            5.702455,
+            45.1839818
+          ]
+        ]
+      },
+      "id": "way/433809719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/434416233",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7021926,
+            45.1770234
+          ],
+          [
+            5.7021453,
+            45.1762839
+          ],
+          [
+            5.7021037,
+            45.1753023
+          ]
+        ]
+      },
+      "id": "way/434416233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/434416234",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7021037,
+            45.1753023
+          ],
+          [
+            5.7019806,
+            45.1725344
+          ],
+          [
+            5.7019419,
+            45.1714874
+          ],
+          [
+            5.7018968,
+            45.1706244
+          ]
+        ]
+      },
+      "id": "way/434416234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/434416235",
+        "destination:lanes": "Espace Comboire;Pont de Claix;Gap - Briançon;Sisteron|Espace Comboire;Pont de Claix;Gap - Briançon;Sisteron|Chambéry;Échirolles",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "through|through|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7017043,
+            45.1660807
+          ],
+          [
+            5.7016426,
+            45.164497
+          ],
+          [
+            5.7015843,
+            45.1631045
+          ]
+        ]
+      },
+      "id": "way/434416235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/434416238",
+        "destination:lanes": "||Eaux Claires;Stade Lesdiguières;Grand'Place",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "none|none|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7018968,
+            45.1706244
+          ],
+          [
+            5.7018626,
+            45.1699709
+          ]
+        ]
+      },
+      "id": "way/434416238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/434416240",
+        "destination:lanes": "Chambéry;Gap - Briançon;Sisteron;Rocade - sud|Chambéry;Gap - Briançon;Sisteron;Rocade - sud|Grenoble - centre;P+R Vallier-Catane",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "none|none|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7023986,
+            45.1815092
+          ],
+          [
+            5.7023797,
+            45.1805426
+          ],
+          [
+            5.7023479,
+            45.1798937
+          ]
+        ]
+      },
+      "id": "way/434416240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/434416241",
+        "destination:lanes": "Pont de Claix;Sisteron;Gap;Briançon|Chambéry;Échirolles;Pont de Claix;Sisteron;Gap;Briançon",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "2",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7018244,
+            45.1690667
+          ],
+          [
+            5.701733,
+            45.1668538
+          ]
+        ]
+      },
+      "id": "way/434416241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/434431274",
+        "destination:lanes": "Claix;Gap;Briançon;Sisteron;Nice|Claix;Gap;Briançon;Sisteron;Nice|Pont de Claix",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "3",
+        "maxspeed": "110",
+        "maxspeed:lanes": "||70",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "none|none|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6913643,
+            45.1390527
+          ],
+          [
+            5.691115,
+            45.1384751
+          ]
+        ]
+      },
+      "id": "way/434431274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/434431284",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "2",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.691115,
+            45.1384751
+          ],
+          [
+            5.6909896,
+            45.1381515
+          ],
+          [
+            5.6908776,
+            45.1378646
+          ],
+          [
+            5.6907654,
+            45.1375327
+          ],
+          [
+            5.6906967,
+            45.1372867
+          ],
+          [
+            5.690585,
+            45.1368176
+          ],
+          [
+            5.6904067,
+            45.1359686
+          ],
+          [
+            5.6902493,
+            45.1350835
+          ],
+          [
+            5.69014,
+            45.1344376
+          ],
+          [
+            5.6900485,
+            45.133866
+          ],
+          [
+            5.690032,
+            45.1336951
+          ],
+          [
+            5.6900167,
+            45.1335088
+          ],
+          [
+            5.6899824,
+            45.132828
+          ]
+        ]
+      },
+      "id": "way/434431284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/434431292",
+        "destination:lanes": "||Espace Comboire - sud",
+        "highway": "motorway",
+        "int_ref": "E 712",
+        "lanes": "3",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 480",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "none|none|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6932507,
+            45.1430797
+          ],
+          [
+            5.6928891,
+            45.1423166
+          ]
+        ]
+      },
+      "id": "way/434431292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/438155549",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "4",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no",
+        "turn:lanes": "through|through|through|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6597449,
+            45.2405712
+          ],
+          [
+            5.6602591,
+            45.2398125
+          ]
+        ]
+      },
+      "id": "way/438155549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440039322",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "90",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6619955,
+            45.2369443
+          ],
+          [
+            5.6622846,
+            45.236429
+          ],
+          [
+            5.6626165,
+            45.2357788
+          ],
+          [
+            5.6630126,
+            45.2349554
+          ],
+          [
+            5.6635571,
+            45.2338766
+          ]
+        ]
+      },
+      "id": "way/440039322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440039323",
+        "highway": "motorway",
+        "int_ref": "E 711;E 713",
+        "lanes": "3",
+        "maxspeed": "110",
+        "oneway": "yes",
+        "ref": "A 48",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6621568,
+            45.2371076
+          ],
+          [
+            5.6619962,
+            45.2374021
+          ],
+          [
+            5.6612839,
+            45.2386209
+          ],
+          [
+            5.6610006,
+            45.2390768
+          ]
+        ]
+      },
+      "id": "way/440039323"
+    }
+  ]
+}
