@@ -1,0 +1,136 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-10-20T08:17:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 569685115,
+  "lat": 45.1865390,
+  "lon": 5.7608519,
+  "tags": {
+    "aeroway": "helipad",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"
+  }
+},
+{
+  "type": "node",
+  "id": 4330542767,
+  "lat": 45.1784663,
+  "lon": 5.6949629,
+  "tags": {
+    "aeroway": "helipad"
+  }
+},
+{
+  "type": "way",
+  "id": 5107518,
+  "nodes": [
+    34962388,
+    34962389,
+    34962390,
+    489326977,
+    5114432360,
+    5114432362,
+    5114432361,
+    34962391,
+    34962388
+  ],
+  "tags": {
+    "aeroway": "helipad",
+    "name": "Héliport du SAMU"
+  }
+},
+{
+  "type": "way",
+  "id": 159489095,
+  "nodes": [
+    1716008221,
+    1716008215,
+    1716008211,
+    1716008218,
+    1716008221
+  ],
+  "tags": {
+    "aeroway": "helipad"
+  }
+},
+{
+  "type": "node",
+  "id": 1716008215,
+  "lat": 45.1661740,
+  "lon": 5.7212112
+},
+{
+  "type": "node",
+  "id": 1716008221,
+  "lat": 45.1663036,
+  "lon": 5.7212504
+},
+{
+  "type": "node",
+  "id": 1716008211,
+  "lat": 45.1661467,
+  "lon": 5.7213928
+},
+{
+  "type": "node",
+  "id": 1716008218,
+  "lat": 45.1662763,
+  "lon": 5.7214320
+},
+{
+  "type": "node",
+  "id": 34962388,
+  "lat": 45.2009339,
+  "lon": 5.7451362
+},
+{
+  "type": "node",
+  "id": 34962389,
+  "lat": 45.2007044,
+  "lon": 5.7453573
+},
+{
+  "type": "node",
+  "id": 34962390,
+  "lat": 45.2009286,
+  "lon": 5.7458388
+},
+{
+  "type": "node",
+  "id": 34962391,
+  "lat": 45.2009966,
+  "lon": 5.7452885
+},
+{
+  "type": "node",
+  "id": 489326977,
+  "lat": 45.2010263,
+  "lon": 5.7457524
+},
+{
+  "type": "node",
+  "id": 5114432360,
+  "lat": 45.2011566,
+  "lon": 5.7456320
+},
+{
+  "type": "node",
+  "id": 5114432361,
+  "lat": 45.2010962,
+  "lon": 5.7451435
+},
+{
+  "type": "node",
+  "id": 5114432362,
+  "lat": 45.2012321,
+  "lon": 5.7452533
+}
+
+  ]
+}
