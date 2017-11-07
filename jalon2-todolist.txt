@@ -1,0 +1,11 @@
+1) Finir le jalon 1
+	- Fixer les sources externes		Traycéo
+	- Update les documents				Vallana
+	- Rédiger le rapport				Cubi
+
+Logical schema = Schéma en étoile (schéma)
+Overall architecture (schéma)
+Prototype du DW (code!!!)
+Preliminary loading (talend)
+Description des problèmes d'implémentation (-> rapport)
+Illustration d'un scénario d'analyse (-> rapport)
