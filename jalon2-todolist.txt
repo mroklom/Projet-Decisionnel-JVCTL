@@ -1,7 +1,14 @@
-1) Finir le jalon 1
+Vacances: Finir le jalon 1
 	- Fixer les sources externes		Traycéo
 	- Update les documents				Vallana
 	- Rédiger le rapport				Cubi
+
+Semaine 1:
+Jo Snowflake schema 
+Tray Pollution decision, Docs & QGIS research
+Cubi Report
+Val Data dictionnary
+Léo Intégration Hive
 
 Logical schema = Schéma en étoile (schéma)
 Overall architecture (schéma)
