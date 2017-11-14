@@ -10,6 +10,12 @@ Cubi Report
 Val Data dictionnary
 Léo Intégration Hive
 
+Semaine 2: 
+Jo snowflake schema >:[
+Léo intégrer le truc là
+Cubi+Tray Talend
+Valentin finir le rapport pour de vrai
+
 Logical schema = Schéma en étoile (schéma)
 Overall architecture (schéma)
 Prototype du DW (code!!!)
