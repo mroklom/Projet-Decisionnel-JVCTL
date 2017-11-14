@@ -1,0 +1,270 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-10-20T11:14:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/36386171",
+        "building": "train_station",
+        "name": "Grenoble Universités - Gières",
+        "operator": "SNCF",
+        "operator_1": "SMTC",
+        "railway": "station",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
+        "uic_ref": "8774740"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.784597,
+              45.1848955
+            ],
+            [
+              5.7846326,
+              45.184827
+            ],
+            [
+              5.7848102,
+              45.1848731
+            ],
+            [
+              5.7848665,
+              45.1848877
+            ],
+            [
+              5.784831,
+              45.1849562
+            ],
+            [
+              5.784597,
+              45.1848955
+            ]
+          ]
+        ]
+      },
+      "id": "way/36386171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41856580",
+        "building": "train_station",
+        "name": "Pont-de-Claix",
+        "official_name": "Pont-de-Claix",
+        "operator": "SNCF",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009",
+        "train": "yes",
+        "uic_ref": "8774751"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.6997992,
+              45.1252453
+            ],
+            [
+              5.6998082,
+              45.1252038
+            ],
+            [
+              5.6997979,
+              45.1251999
+            ],
+            [
+              5.6998191,
+              45.125096
+            ],
+            [
+              5.6998297,
+              45.1250965
+            ],
+            [
+              5.6998379,
+              45.1250544
+            ],
+            [
+              5.6999357,
+              45.1250625
+            ],
+            [
+              5.6999282,
+              45.125104
+            ],
+            [
+              5.6999359,
+              45.1251049
+            ],
+            [
+              5.6999163,
+              45.1252137
+            ],
+            [
+              5.699908,
+              45.125213
+            ],
+            [
+              5.6998996,
+              45.1252553
+            ],
+            [
+              5.6997992,
+              45.1252453
+            ]
+          ]
+        ]
+      },
+      "id": "way/41856580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/63150812",
+        "building": "train_station",
+        "name": "Lancey",
+        "operator": "SNCF",
+        "railway": "station",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "uic_ref": "8741750"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.8808632,
+              45.23445
+            ],
+            [
+              5.8809242,
+              45.2344025
+            ],
+            [
+              5.8810884,
+              45.2345067
+            ],
+            [
+              5.881027,
+              45.2345544
+            ],
+            [
+              5.8808632,
+              45.23445
+            ]
+          ]
+        ]
+      },
+      "id": "way/63150812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/66956517",
+        "building": "yes",
+        "name": "Saint-Égrève-Saint-Robert",
+        "operator": "SNCF",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_ref": "8774735"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.6712242,
+              45.2356562
+            ],
+            [
+              5.6713122,
+              45.2356559
+            ],
+            [
+              5.6713132,
+              45.2357905
+            ],
+            [
+              5.6712252,
+              45.2357908
+            ],
+            [
+              5.6712242,
+              45.2356562
+            ]
+          ]
+        ]
+      },
+      "id": "way/66956517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/80993316",
+        "area": "yes",
+        "building": "yes",
+        "level": "1",
+        "name": "Gare d'Echirolles",
+        "operator": "SNCF",
+        "railway": "station",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.7188422,
+              45.1529312
+            ],
+            [
+              5.7188968,
+              45.1529106
+            ],
+            [
+              5.7189158,
+              45.152936
+            ],
+            [
+              5.7188615,
+              45.1529562
+            ],
+            [
+              5.7188422,
+              45.1529312
+            ]
+          ]
+        ]
+      },
+      "id": "way/80993316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5070332503",
+        "name": "Grenoble",
+        "operator": "SNCF",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikidata": "Q2545346",
+        "wikipedia": "fr:Gare de Grenoble"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7141017,
+          45.1913071
+        ]
+      },
+      "id": "node/5070332503"
+    }
+  ]
+}

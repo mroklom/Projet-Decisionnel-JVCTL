@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-10-20T11:15:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5107518",
+        "aeroway": "helipad",
+        "name": "Héliport du SAMU"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.7451362,
+              45.2009339
+            ],
+            [
+              5.7453573,
+              45.2007044
+            ],
+            [
+              5.7458388,
+              45.2009286
+            ],
+            [
+              5.7457524,
+              45.2010263
+            ],
+            [
+              5.745632,
+              45.2011566
+            ],
+            [
+              5.7452533,
+              45.2012321
+            ],
+            [
+              5.7451435,
+              45.2010962
+            ],
+            [
+              5.7452885,
+              45.2009966
+            ],
+            [
+              5.7451362,
+              45.2009339
+            ]
+          ]
+        ]
+      },
+      "id": "way/5107518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159489095",
+        "aeroway": "helipad"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.7212504,
+              45.1663036
+            ],
+            [
+              5.7212112,
+              45.166174
+            ],
+            [
+              5.7213928,
+              45.1661467
+            ],
+            [
+              5.721432,
+              45.1662763
+            ],
+            [
+              5.7212504,
+              45.1663036
+            ]
+          ]
+        ]
+      },
+      "id": "way/159489095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/162743268",
+        "aeroway": "helipad"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.8462469,
+              45.2157998
+            ],
+            [
+              5.8460263,
+              45.2156351
+            ],
+            [
+              5.8462537,
+              45.215476
+            ],
+            [
+              5.8463348,
+              45.2155399
+            ],
+            [
+              5.8463589,
+              45.2155588
+            ],
+            [
+              5.8463931,
+              45.2155857
+            ],
+            [
+              5.8464715,
+              45.2156474
+            ],
+            [
+              5.8462469,
+              45.2157998
+            ]
+          ]
+        ]
+      },
+      "id": "way/162743268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/569685115",
+        "aeroway": "helipad",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7608519,
+          45.186539
+        ]
+      },
+      "id": "node/569685115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1042146880",
+        "aeroway": "helipad",
+        "name": "Quartier-Reynies Heliport",
+        "source": "ourairports.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6833329,
+          45.0999985
+        ]
+      },
+      "id": "node/1042146880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3822481175",
+        "aeroway": "helipad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7076885,
+          45.108249
+        ]
+      },
+      "id": "node/3822481175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4330542767",
+        "aeroway": "helipad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6949629,
+          45.1784663
+        ]
+      },
+      "id": "node/4330542767"
+    }
+  ]
+}
