@@ -1,0 +1,7 @@
+TODO list docs pour phase 2 :
+
+- colonnes 5YearPeriod, stumpDiameterGroup à rajouter dans les tables
+- updates docs pour ces attributs
+- preliminary workload
+- data documents
+- fin du df model
