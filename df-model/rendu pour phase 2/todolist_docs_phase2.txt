@@ -4,7 +4,7 @@ TODO list docs pour phase 2 :
 - updates docs pour ces attributs
 - preliminary workload
 - formulization of requirements
-- fin du df model
-- traduire polluants en anglais dans docs
 - creer table pour polluants
 - updates docs pour deuxième fait (pollution)
+
+
