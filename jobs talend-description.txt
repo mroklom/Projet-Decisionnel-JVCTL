@@ -1,0 +1,46 @@
+DESCRIPTION DES JOBS TALEND
+
+Métadonnées:
+X_geoloc_1.csv
+X_geoloc_2.csv
+X_tree_1.csv
+X_tree_2.csv
+diagnostics.csv
+fichier de stations /!\ Où est-il ?
+
+Si vous avez un path aux fichiers différent (ce qui va probablement arriver), 
+mieux vaut ne pas changer le path directement, 
+mais utiliser les contextes comme on a vu pendant la formation.
+
+// Pour le début, on garde les noms de colonne des fichiers d'entrée
+
+------- 1. Merge Datasets
+Ce job merge les données des deux datasets (X_geoloc_1 et X_geoloc_2, X_tree1_, et X_tree_2),
+puis rassemble les données X_geoloc et X_tree en un seul fichier de sortie.
+Grâce à ça on pourra faire tous nos autres jobs sur un seul fichier de données "diagnostics".
+
+// A partir d'ici, tous les input et output sont sur le fichier "diagnostics".
+------- 2. Add IDs
+Ce job ajoute des ID uniques aux diagnostics.
+
+------- 3. Make structure
+Ce job renomme les noms de colonne aux noms finaux prévus pour l'entrepôt.
+Il ajoute aussi les colonnes qui ne sont pas encore créées, mais avec des valeurs vides par défaut 
+(par ex isLast; aussi ne pas oublier l'ID de la station la plus proche)
+Cela permettra d'avoir une structure commune pour tous les jobs suivants et d'éviter les créations de colonnes.
+
+// A partir de maintenant, on travaille avec les noms de colonnes définis dans le data dictionnary.
+------- 4. isLast
+Ce job donne les valeurs attendues à l'attribut isLast. Il vérifie si chaque diagnostic est le dernier appliqué à l'arbre (=location).
+
+------- 5. Match Pollution Station
+Ce job associe chaque arbre à la station de pollution la plus proche.
+
+------- 6. Aggregate diseases
+Ce job donne les valeurs attendues à l'attribut diseases. xxxx pour pas malade, xxCK pour collar & crown, etc.
+
+------- 7. Match geographical data
+Ce job donne les valeurs attendues aux attributs "closest[Mall|Road|...]". /!\ Peut-être pas possible, à rediscuter.
+
+------- 8. Split to 1 file per table
+Ce job répartit les données dans un fichier par table utilisée pour l'architecture finale du DW. Voir le schéma en étoile pour la structure.
