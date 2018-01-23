@@ -1,0 +1,22 @@
+questions  à poser :
+	Mapping tables : comment faire pour les attributs calculés ? : mettre l'expression
+	formalization of requirements
+	utiliser les données géo pour le preliminary workload ? oui
+	données géo : ajouter des hierarchies ? check
+
+df model :
+	ajouter % à quantity
+	ajouter sick en measure : si 1 des 4 sont à 1 alors sick est à 1
+
+
+
+renomer propre et voir dans les mappings
+ajouter une dimension : estimé ?
+
+
+
+* dictionnaire : ajouter les cardianalités, donner des exemples
+* mapping : donner des nom d'attributs plus claire et les revoir dans le mapping
+* ajouter des requetes croisement avec geo, combien d'arbres il y a
+* regarder des données sur open street map ??
+* regarder base de maladie des arbres

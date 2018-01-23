@@ -5,6 +5,7 @@
 
 # Excel temporary
 ~$*.xls*
+~$*.ods*
 
 # Excel Backup File
 *.xlk
