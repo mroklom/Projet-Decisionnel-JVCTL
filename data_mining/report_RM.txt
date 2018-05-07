@@ -1,0 +1,31 @@
+# Rapid Miner
+
+## Naive Bayes with 10 folds cross validation
+execution time: 00:01
+
+### ConfusionMatrix:
+
+			true	false
+pred true:	3602	1791
+pred false:	1399	8583
+accuracy: 79.25% +/- 1.10% (mikro: 79.25%)
+precision: 85.99% +/- 0.70% (mikro: 85.98%) (positive class: false)
+recall: 82.74% +/- 1.51% (mikro: 82.74%) (positive class: false)
+AUC (optimistic): 0.828 +/- 0.008 (mikro: 0.828) (positive class: false)
+AUC: 0.828 +/- 0.008 (mikro: 0.828) (positive class: false)
+AUC (pessimistic): 0.828 +/- 0.008 (mikro: 0.828) (positive class: false)
+
+## Z-index normalize Neural Net with 10 folds cross validation
+execution time: 17:59
+
+### ConfusionMatrix:
+
+True:	true	false
+true:	3611	823
+false:	1390	9551
+accuracy: 85.61% +/- 0.74% (mikro: 85.61%)
+precision: 87.34% +/- 1.27% (mikro: 87.30%) (positive class: false)
+recall: 92.07% +/- 2.21% (mikro: 92.07%) (positive class: false)
+AUC (optimistic): 0.893 +/- 0.009 (mikro: 0.893) (positive class: false)
+AUC: 0.893 +/- 0.009 (mikro: 0.893) (positive class: false)
+AUC (pessimistic): 0.893 +/- 0.009 (mikro: 0.893) (positive class: false)

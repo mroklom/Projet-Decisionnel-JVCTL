@@ -1,0 +1,17 @@
+# Python
+
+## Naive Bayes with 10 folds CV
+execution time: not measured (1s)
+
+### ConfusionMatrix:
+
+			true	false
+pred true:	3553	1826
+pred false:	1448	8548
+
+             precision    recall  f1-score   support
+
+      False       0.86      0.82      0.84     10374
+       True       0.66      0.71      0.68      5001
+
+avg / total       0.79      0.79      0.79     15375
