@@ -1,11 +1,25 @@
 # Python
+everything is performed with the numeric dataset (sklearn only work with numeric data)
+
+
+## Decision tree with 10 folds CV
+### ConfusionMatrix:
+		true	false
+pred true:	3214	580
+pred false:	1787	9794
+
+             precision    recall  f1-score   support
+
+      False       0.85      0.94      0.89     10374
+       True       0.85      0.64      0.73      5001
+
+avg / total       0.85      0.85      0.84     15375
+
 
 ## Naive Bayes with 10 folds CV
 execution time: not measured (1s)
-
 ### ConfusionMatrix:
-
-			true	false
+		true	false
 pred true:	3553	1826
 pred false:	1448	8548
 
@@ -15,3 +29,19 @@ pred false:	1448	8548
        True       0.66      0.71      0.68      5001
 
 avg / total       0.79      0.79      0.79     15375
+
+
+## StandardScaler normalize Neural Net with 10 folds cross validation (numeric DS)
+execution time: Approx. 00:10
+### ConfusionMatrix:
+
+		true	false
+pred true:	3491	669
+pred false:	1510	9705
+
+             precision    recall  f1-score   support
+
+      False       0.87      0.94      0.90     10374
+       True       0.84      0.70      0.76      5001
+
+avg / total       0.86      0.86      0.85     15375
