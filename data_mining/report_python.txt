@@ -31,7 +31,7 @@ pred false:	1448	8548
 avg / total       0.79      0.79      0.79     15375
 
 
-## StandardScaler normalize Neural Net with 10 folds cross validation (numeric DS)
+## StandardScaler normalize Neural Net with 10 folds cross validation 19 hidden layer(numeric DS)
 execution time: Approx. 00:10
 ### ConfusionMatrix:
 
@@ -45,3 +45,33 @@ pred false:	1510	9705
        True       0.84      0.70      0.76      5001
 
 avg / total       0.86      0.86      0.85     15375
+
+
+## StandardScaler normalize Neural Net with 10 folds cross validation 31 hidden layer(numeric DS)
+execution time: Approx. 00:10
+### ConfusionMatrix:
+
+		true	false
+pred true:	3536	715
+pred false:	1465	9659
+
+             precision    recall  f1-score   support
+
+      False       0.87      0.93      0.90     10374
+       True       0.83      0.71      0.76      5001
+
+avg / total       0.86      0.86      0.85     15375
+
+
+
+# Multi labeling
+
+## Decision tree with 10 folds CV
+coverage_error:                    1.0465691056910569
+label_ranking_average_precision:   0.862113821138212
+label_ranking_loss:                0.2090189701897019
+
+## Neural net 10 folds CV
+coverage_error:                    1.2152845528455285
+label_ranking_average_precision:   0.8111472448057815
+label_ranking_loss:                0.281739837398374
