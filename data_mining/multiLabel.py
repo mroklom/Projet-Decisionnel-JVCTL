@@ -21,16 +21,8 @@ DS_label = np.transpose(DS_label)
 
 DS_features_names = np.delete(list(DS_treePart_numeric), -1)
 
-clf = tree.DecisionTreeClassifier(max_depth=4, min_samples_leaf=5)
-DS_predict = cross_val_predict(clf, DS_sample, DS_label, cv=10)
-
-print(coverage_error(DS_label, DS_predict))
-print(label_ranking_average_precision_score(DS_label, DS_predict))
-print(label_ranking_loss(DS_label, DS_predict))
-print()
-
 clf = MLPClassifier(
-    hidden_layer_sizes=int((len(DS_sample[0]) + 4 ) / 2 + 1),
+    hidden_layer_sizes=45,
     max_iter=500
 )
 DS_predict = cross_val_predict(clf, DS_sample, DS_label, cv=10)

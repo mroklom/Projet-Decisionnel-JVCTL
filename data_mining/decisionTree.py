@@ -16,16 +16,18 @@ scoring = ["recall"]
 
 cv = GridSearchCV(
     estimator=tree.DecisionTreeClassifier(criterion="gini", max_depth=5),
-    param_grid={"min_samples_split": range(2, 403, 10)},
+    param_grid={"min_samples_split": range(2, 503, 10)},
+    # param_grid=[{"criterion": ["gini"], "max_depth": range(1, 21)}],
     scoring=scoring,
     refit="recall",
     cv=3
 )
 cv.fit(DS_sample, DS_label)
 results = cv.cv_results_
+print(cv.best_params_)
 
-plt.figure(figsize=(5, 5))
-plt.title("Gini Search",
+plt.figure(figsize=(7, 7))
+plt.title("Min sample Search",
           fontsize=12)
 
 plt.xlabel("min_samples_split")
@@ -33,8 +35,8 @@ plt.ylabel("Recall")
 plt.grid()
 
 ax = plt.axes()
-ax.set_xlim(2, 402)
-ax.set_ylim(0.6, 1)
+ax.set_xlim(0, 502)
+ax.set_ylim(0.5, 1)
 
 # Get the regular numpy array from the MaskedArray
 X_axis = np.array(results['param_min_samples_split'].data, dtype=float)
@@ -66,7 +68,8 @@ plt.grid('off')
 
 clf = tree.DecisionTreeClassifier(
     max_depth=5,
-    criterion="gini"
+    criterion="gini",
+    min_samples_split=372
 )
 clf.fit(DS_sample, DS_label)
 

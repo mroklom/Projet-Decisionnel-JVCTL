@@ -1,0 +1,59 @@
+# MULTI LABEL
+
+## multiclass decision tree 10 fold cv
+accuracy: 45.59% +/- 1.04% (mikro: 45.59%)
+ConfusionMatrix:
+True:	1000	0100	1100	0110	0011	1101	1111	1110	0001	1001	0101	0010	1010	0111	1011
+1000:	1	2	0	0	0	0	0	0	3	1	2	0	0	0	0
+0100:	111	1857	96	139	43	147	44	67	575	93	421	195	37	38	43
+1100:	0	1	2	0	0	9	1	0	1	0	3	0	1	0	0
+0110:	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+0011:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1101:	0	8	22	1	0	35	14	5	2	0	17	0	0	1	0
+1111:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1110:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0001:	89	214	11	6	5	15	4	1	377	33	88	48	10	0	7
+1001:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0101:	2	8	4	1	0	13	7	0	5	2	8	0	1	2	1
+0010:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1010:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0111:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1011:	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+kappa: 0.144 +/- 0.022 (mikro: 0.145)
+
+coverage_error:                    2.63247350529894
+label_ranking_average_precision:   0.7357861760981158
+label_ranking_loss:                0.4232320202626141
+
+
+## solo decision tree 10 fold cv
+### collar
+accuracy: 83.08% +/- 1.21% (mikro: 83.08%)
+ConfusionMatrix:
+True:	true	false
+true:	265	182
+false:	664	3890
+### crown
+accuracy: 71.61% +/- 1.26% (mikro: 71.61%)
+ConfusionMatrix:
+True:	false	true
+false:	593	327
+true:	1093	2988
+### root
+accuracy: 85.56% +/- 0.46% (mikro: 85.56%)
+ConfusionMatrix:
+True:	false	true
+false:	4260	703
+true:	19	19
+### trunk
+accuracy: 66.51% +/- 1.59% (mikro: 66.51%)
+ConfusionMatrix:
+True:	false	true
+false:	2374	1108
+true:	567	952
+
+coverage_error:                    2.6486702659468104
+label_ranking_average_precision:   0.6932391299517869
+label_ranking_loss:                0.4303472638805572
+
+

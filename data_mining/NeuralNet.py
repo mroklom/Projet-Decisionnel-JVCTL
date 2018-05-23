@@ -17,17 +17,18 @@ DS_sample = scaler.fit_transform(DS_sample)
 scoring = ["recall"]
 
 # cv = GridSearchCV(
-#     estimator=MLPClassifier(),
-#     param_grid={"hidden_layer_sizes": range(5, 35, 1)},
+#     estimator=MLPClassifier(max_iter=500),
+#     param_grid={"hidden_layer_sizes": range(10, 201, 10)},
 #     scoring=scoring,
 #     refit="recall",
 #     cv=3
 # )
 # cv.fit(DS_sample, DS_label)
 # results = cv.cv_results_
+# print(cv.best_params_)
 #
-# plt.figure(figsize=(5, 5))
-# plt.title("Neural net Search",
+# plt.figure(figsize=(7, 7))
+# plt.title("Hidden layer size Search",
 #           fontsize=12)
 #
 # plt.xlabel("hidden_layer_sizes")
@@ -35,8 +36,8 @@ scoring = ["recall"]
 # plt.grid()
 #
 # ax = plt.axes()
-# ax.set_xlim(5, 34)
-# ax.set_ylim(0.6, 1)
+# ax.set_xlim(10, 200)
+# ax.set_ylim(0.5, 1)
 #
 # # Get the regular numpy array from the MaskedArray
 # X_axis = np.array(results['param_hidden_layer_sizes'].data, dtype=float)
@@ -69,16 +70,13 @@ scoring = ["recall"]
 
 clf = MLPClassifier(
     # hidden_layer_sizes=int((len(DS_sample[0]) + 2 ) / 2 + 1),
-    hidden_layer_sizes=31,
+    hidden_layer_sizes=90,
     max_iter=500
 )
-
 
 DS_predict = cross_val_predict(clf, DS_sample, DS_label, cv=10)
 conf_matrix = confusion_matrix(DS_label, DS_predict)
 # scores = cross_validate(gnb, DS_sample, DS_label, cv=10, scoring=scoring)
-
-
 
 print(conf_matrix)
 print(classification_report(DS_label, DS_predict))
